@@ -20,7 +20,9 @@ conversation = [
 
       "role": "user",
       "content": [
-          {"type": "text","text":"哪个物体处于最危险的境地？"},
+          #{"type": "text","text":"图片中的人是男性还是女性？为什么呢？请注意以下几点，以便更好地回答问题："},
+          {"type": "text","text":"这张图片中谁处于危险？，A：骑自行车的人 B：公交车"},
+          #{"type": "text","text":"托盘的左边是什么？请注意以下提示方便更好回答问题：1、确定参考框架，是托盘的左侧，而非画面的左侧 2、确定托盘上的物品 "},
           {"type": "image"},
         ],
     },
@@ -42,9 +44,9 @@ raw_image = Image.open(requests.get(image_file, stream=True).raw)
 inputs = processor(
     images=raw_image, 
     text=prompt, 
-    return_tensors='pt',
-    text_kwargs={"return_mm_token_type_ids": True})
+    return_tensors='pt')
 # Move input tensors to the same device as the model
-#output = model.generate(**inputs, max_new_tokens=2000, do_sample=False)
-#print(processor.decode(output[0][2:], skip_special_tokens=True))
+output = model.generate(**inputs, max_new_tokens=2000, do_sample=False)
+print("Here is the prompt",prompt)
+print(processor.decode(output[0][2:], skip_special_tokens=True))
 print(inputs.keys())
