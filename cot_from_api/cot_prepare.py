@@ -23,7 +23,7 @@ client = OpenAI(
 
 import base64
 
-with open("/data/aovkqa/train2017/000000002613.jpg", "rb") as image_file:
+with open("/data/aovkqa/train2017/000000012991.jpg", "rb") as image_file:
     image_bytes = image_file.read()
     image_base64 = base64.b64encode(image_bytes).decode("utf-8")
     image_data_url = f"data:image/jpeg;base64,{image_base64}"
@@ -34,7 +34,7 @@ response = client.chat.completions.create(
         {
             "role": "user",
             "content": [
-                {"type": "text", "text": "提问：向我描述一下这张图片。针对这个包含图像和提问的输入，请深入理解意义，think step by step，告诉我应该如何去推理，只输出推理的指引，不输出推理的具体细节，也不需要告诉我答案"},
+                {"type": "text", "text": "提问：图像中的人物的性别是什么。针对这个包含图像和提问的输入，请深入理解意义，think step by step，告诉我应该如何去推理，只输出推理的指引，不输出推理的具体细节，也不需要告诉我答案"},
                 {
                     "type": "image_url",
                     "image_url": {

@@ -41,6 +41,7 @@ class SequenceAligner(nn.Module):
         # 找到所有非-image位置的索引
         non_image_indices = (~is_image_token).nonzero(as_tuple=True)[0]
         # 提取非-image文本token
+        non_image_indices = non_image_indices.to(X_norm.device)
         X_non_image = X_norm[non_image_indices]  # [n_nonimage, d]
 
         sims = torch.matmul(X_non_image, V_norm.t())  # [n_text, n_visual]
