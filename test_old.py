@@ -54,6 +54,7 @@ class LlavaOnevisionPipeline:
         return input_ids, text_embeds
 
     def expand_image_tokens(self, input_ids, text_embeds):
+        input_ids=input_ids.squeeze(0)
         text_token_len = text_embeds.shape[0]
         is_image_token = (input_ids == self.image_token_id) #哪些位置是图像标记
         image_token_index = is_image_token.nonzero(as_tuple=True)[0].item()
@@ -78,8 +79,8 @@ class LlavaOnevisionPipeline:
         )
         image_embeds=torch.cat(image_embeds, dim=0)
         image_embeds = image_embeds.reshape(-1, image_embeds.size(-1))
-        print("-----打印image_embeds------",image_embeds)
-        print(image_embeds.shape)
+        #print("-----打印image_embeds------",image_embeds)
+        #print(image_embeds.shape)
         return image_embeds
 
     def align_sequences(self, image_embeds, text_embeds, is_image_token, top_k=1000):
@@ -114,11 +115,11 @@ class LlavaOnevisionPipeline:
             self.linear_layer.to(hidden_states.device)
             logits = self.linear_layer(hidden_states)
             #print(f"logits shape: {logits.shape}")
-            print(f"logits: {logits}")
-
+            #print(f"logits: {logits}")
+            logits=torch.softmax(logits, dim=-1) 
             predicted_index = torch.argmax(logits, dim=-1)
-            print(f"predicted_index: {predicted_index.item()}")
-            return predicted_index.item()
+            #print(f"predicted_index: {predicted_index.item()}")
+            return predicted_index.item(),logits
         
 
     def build_augmented_question(self, question: str, api_tips: list[str]) -> str:

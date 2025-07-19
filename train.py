@@ -9,7 +9,7 @@ from torchvision import transforms
 from PIL import Image
 import torch.nn.functional as F
 from test_old import LlavaOnevisionPipeline
-
+from tqdm import tqdm
 '''
 在test withcot里面先跑一个看看有没有bug，run还没写，线性层矩阵维度还没改
 注意力的理论再推一次
@@ -57,8 +57,8 @@ def prepare_dataloader(jsonl_path, batch_size=2):
 
     return dataloader
 
-def train(model, dataloader, optimizer, device=None):
-    model.train()
+def train(pipeline, dataloader, optimizer, device=None):
+    """model.train()
     
     for batch in dataloader:
         optimizer.zero_grad()
@@ -105,22 +105,80 @@ def train(model, dataloader, optimizer, device=None):
         total_loss.backward()
         optimizer.step()
 
-        print(f"Loss: {total_loss.item()}, Predicted label: {predicted_label}, Ground truth label: {labels.item()}")
+        print(f"Loss: {total_loss.item()}, Predicted label: {predicted_label}, Ground truth label: {labels.item()}")"""
+    pipeline.model.train()
+    for batch in tqdm(dataloader):
+                #print(batch)
+            images=batch['image_path']
+            optimizer.zero_grad()
+            for i in range(len(batch['image_path'])):
+                question = batch["question"][i]
+                choices = batch["choices"][i]
+                text = f"{question} Answer:{' '.join(choices)}"
+                labels = torch.Tensor(batch['label'][i]).to(device)
+                print(labels)
+                prompt = f"Question:{text}"
+                conversation = [
+                {
+
+                        "role": "user",
+                        "content": [
+                        {"type": "text","text":prompt},
+                        {"type": "image"},
+                            ],
+                        },
+                    ]
+                prompt = pipeline.processor.apply_chat_template(conversation, add_generation_prompt=True)
+                image=images[i]
+                image_embeds = pipeline.get_image_embeds(image, prompt)
+                input_ids, text_embeds = pipeline.get_text_embeds(prompt)
+                input_ids, is_image_token = pipeline.expand_image_tokens(input_ids, text_embeds)
+                aligned_input = pipeline.align_sequences(image_embeds, text_embeds, is_image_token)
+                predicted_label,logits = pipeline.generate_answer(aligned_input, text_embeds)
+                    # 计算损失
+                loss_fn = torch.nn.CrossEntropyLoss()
+                logits=torch.softmax(logits, dim=-1)
+                labels=labels.unsqueeze(0)  # 使用 CrossEntropy 损失来计算标签和预测的差异
+                loss = loss_fn(logits, labels)  # 这里的 probabilities 是 softmax 输出的得分
+                    
+                    # 提取层注意力（示例：假设你有特定的 attention 层）
+                print(pipeline.model)
+                attn_map16 =pipeline.model.language_model.model.layers[15].self_attn.attention
+                attn_map17 = pipeline.model.language_model.model.layers[16].self_attn.attention
+                attn_map18 = pipeline.model.language_model.model.layers[17].self_attn.attention
+
+                    # 获取文本的 token 数量
+                n_text = text.size(1)
+
+                    # 计算注意力均衡损失
+                attn_loss16 = compute_attention_alignment_loss(attn_map16, n_text)
+                attn_loss17 = compute_attention_alignment_loss(attn_map17, n_text)
+                attn_loss18 = compute_attention_alignment_loss(attn_map18, n_text)
+
+                    # 合并损失
+                total_loss = loss + attn_loss16 + attn_loss17 + attn_loss18
+                total_loss.backward()
+                print(f"Loss: {total_loss.item()}, Predicted label: {predicted_label}, Ground truth label: {labels.item()}")
+            optimizer.step()
+
+        
 
 def test(pipeline, dataloader, device=None):
     pipeline.model.eval()
     correct = 0
     total = 0
     with torch.no_grad():
-        for batch in dataloader:
-            print(batch)
+        #num=0
+        for batch in tqdm(dataloader):
+            #print(batch)
             images=batch['image_path']
             for i in range(len(batch['image_path'])):
                 question = batch["question"][i]
                 choices = batch["choices"][i]
                 text = f"{question} Answer:{' '.join(choices)}"
                 labels = torch.Tensor(batch['label'][i]).to(device)
-                prompt = [f"Question:{text}"]
+                print(labels)
+                prompt = f"Question:{text}"
                 conversation = [
                 {
 
@@ -138,20 +196,23 @@ def test(pipeline, dataloader, device=None):
                 input_ids, is_image_token = pipeline.expand_image_tokens(input_ids, text_embeds)
                 aligned_input = pipeline.align_sequences(image_embeds, text_embeds, is_image_token)
 
-                predicted_label = pipeline.generate_answer(aligned_input, text_embeds)
+                predicted_label,logits = pipeline.generate_answer(aligned_input, text_embeds)
             
             # predicted_label 应为 tensor 或 numpy
                 if isinstance(predicted_label, torch.Tensor):
                     predicted_label = predicted_label.cpu()
                 correct += (predicted_label == labels.cpu()).sum().item()
-                total += labels.size(0)
-    acc = correct / total if total > 0 else 0
-    return acc
+                total += 1
+                print("done 1")
+            #num+=1
+            #if num==100:
+                #break
+        acc = correct / total if total > 0 else 0
+        return acc
 
 if __name__ == "__main__":
-    '''
+    """
     Test
-    '''
     model_id = "/data/huggingface/models/llava-hf_llava-onevision-qwen2-7b-ov-hf"
     #model = LlavaOnevisionForConditionalGeneration.from_pretrained(model_id, device_map="auto")
     
@@ -163,25 +224,26 @@ if __name__ == "__main__":
     # 准备数据集
     dataloader = prepare_dataloader(jsonl_path="process.json")
 
-    #开始测试
-    test(pipeline, dataloader, device=device)
-    '''
-    train
-    model_id = "llava-hf_llava-onevision-qwen2-7b-ov-hf"
-    model = LlavaOnevisionForConditionalGeneration.from_pretrained(model_id, device_map="auto")
-    model = setup_lora(model, target_layers=[15, 16, 17], r=8, alpha=32, dropout=0.1)  # 设置 LoRA 微调
     
-    # 使用 GPU
+   cor=test(pipeline, dataloader, device=device)
+    print(cor)
+    """
+    
+    """
+    Train
+    """
     device = "cuda"
-    model.to(device)
+    model_id = "/data/huggingface/models/llava-hf_llava-onevision-qwen2-7b-ov-hf"
+    pipeline = LlavaOnevisionPipeline(model_id, device=device)  # 设置 LoRA 微调
+    pipeline.model = setup_lora(pipeline.model, target_layers=[15, 16, 17], r=8, alpha=32, dropout=0.1) # 将模型设置到管道中
     
     # 准备数据集
-    dataloader = prepare_dataloader(jsonl_path="train_data.jsonl")
+    dataloader = prepare_dataloader(jsonl_path="process.json")
     
     # 优化器
-    optimizer = torch.optim.AdamW(model.parameters(), lr=1e-5)
+    optimizer = torch.optim.AdamW(pipeline.model.parameters(), lr=1e-5)
     
     # 训练
-    train(model, dataloader, optimizer, device=device)
-    '''
+    train(pipeline, dataloader, optimizer, device=device)
+    
 

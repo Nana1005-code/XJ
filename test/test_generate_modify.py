@@ -114,6 +114,42 @@ class LlavaOnevisionPipeline:
             print("class_num:", class_num.shape)
        
         return answer
+    '''
+    def generate_answer(self, aligned_input, input_ids, max_new_tokens=20):
+        #拓展batch维度，并做深拷贝，复制
+        #aligned_input_class=aligned_input.unsqueeze(0).detach().clone() #[1,145,3584]
+        aligned_input_class=aligned_input.detach().clone()
+        with torch.no_grad():#无梯度推理
+            aligned_input = aligned_input
+            #aligned_input = aligned_input.unsqueeze(0)
+            # 1. 获取隐藏层状态
+            outputs = self.model(
+                inputs_embeds=aligned_input,
+                output_hidden_states=True,
+                return_dict=True
+            )
+            hidden_states = outputs.hidden_states  # list of layers
+            # 2. 打印隐藏层状态的数量和每一层的形状
+            #print(f"隐藏层数量: {len(hidden_states)}")
+            #for i, h in enumerate(hidden_states):
+                #print(f"第{i}层 shape: {h.shape}")
+            
+            #拿出最后一层
+            hidden_states = hidden_states[-1] #[1,145,3584] 
+            #print(f"最后一层 shape: {hidden_states.shape}")
+            #拿出H1
+            hidden_states = hidden_states[:,-1,:]
+            #print(f"第一行 shape: {hidden_states.shape}")
+            self.linear_layer.to(hidden_states.device)
+            logits = self.linear_layer(hidden_states)
+            #print(f"logits shape: {logits.shape}")
+            print(f"logits: {logits}")
+
+            predicted_index = torch.argmax(logits, dim=-1)
+            print(f"predicted_index: {predicted_index.item()}")
+            return predicted_index.item()
+    
+    '''
 
     def build_augmented_question(self, question: str, api_tips: list[str]) -> str:
         """
