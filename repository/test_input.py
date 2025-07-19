@@ -30,7 +30,7 @@ prompt = processor.apply_chat_template(conversation, add_generation_prompt=True)
 print(prompt)
 
 #JPG
-raw_image = Image.open("/data/aovkqa/train2017/000000012993.jpg").convert("RGB")
+raw_image = Image.open("/data/aovkqa/train2017/000000012864.jpg").convert("RGB")
 
 # 获取 <image> token 的 ID
 image_token = processor.image_token  # 默认是 "<image>"
@@ -40,7 +40,7 @@ print(image_token)
 拿出text_embedding
 '''
 input_ids = processor.tokenizer(prompt, return_tensors='pt').input_ids.to("cuda:0")
-print(input_ids)
+print("-------------input_ids:",input_ids)
 '''
 tensor([[151644,    872,    220, 151646,    198, 104673, 109840, 101199,  31235,
          104264,   9370,  99279,  29490,  11319, 151645, 151644,  77091,    198]],

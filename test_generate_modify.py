@@ -6,6 +6,9 @@ from aligner import SequenceAligner
 from api_class import generate_tips_from_image_and_question  # 调用封装好的 API
 import torch.nn as nn
 import torch.nn.functional as F
+'''
+更改生成方式的test，已跑通
+'''
 
 class LlavaOnevisionPipeline:
     def __init__(self, model_id, device="cuda:0"):
@@ -21,6 +24,14 @@ class LlavaOnevisionPipeline:
         #new\\\\\\\\\\\\\\\\\\\\\\\\\\
         # 定义一个线性层来映射模型输出到4个选项的得分
         self.linear_layer = nn.Linear(3584, 4)  # 3584 是假设模型输出的维度，4 是选项的个数
+
+    def get_classification_scores(self, text_embeds):
+        """
+        使用线性层将文本嵌入转化为4个选项的得分。
+        text_embeds: 模型输出的文本嵌入（假设维度为 [batch_size, 3584]）
+        """
+        logits = self.linear_layer(text_embeds)  # [batch_size, 4]
+        return logits
 
     def build_prompt(self, question):
         conversation = [
@@ -78,13 +89,30 @@ class LlavaOnevisionPipeline:
         return aligned_input
 
     def generate_answer(self, aligned_input, input_ids, max_new_tokens=20):
-        aligned_input = aligned_input.unsqueeze(0).to(self.device)
-        output_ids = self.model.generate(
-            inputs_embeds=aligned_input,
-            input_ids=input_ids,
-            max_new_tokens=max_new_tokens,
-        )
-        answer = self.processor.tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0]
+        #拓展batch维度，并做深拷贝，复制
+        aligned_input_class=aligned_input.unsqueeze(0).detach().clone() #[1,145,3584]
+        with torch.no_grad():#无梯度推理
+            aligned_input = aligned_input.unsqueeze(0)
+
+            position_ids = torch.arange(0, len(input_ids), dtype=torch.long)
+            position_ids = position_ids.unsqueeze(0).expand_as(aligned_input_class[:,:,0])
+            position_embeddings = self.model.language_model.model.rotary_emb(x=aligned_input_class, position_ids=position_ids)
+            for layer in self.model.language_model.model.layers:
+                aligned_input_class = layer(
+                    hidden_states=aligned_input_class,
+                    attention_mask=None,
+                    position_embeddings=position_embeddings,
+                    past_key_value=None,
+                    output_attentions=False,
+                    use_cache=False
+                )[0] #H1 在没[0]情况下，是[1,1,145,3584],即隐藏层的维度是[1,145,3584]
+                #print("output_ids shape:", output_ids.shape)
+            print("output:", aligned_input_class.shape)#[1,145,3584]
+            #print(self.model.language_model.lm_head)
+            self.linear_layer.to(aligned_input_class[:,-1,:].device)
+            class_num=self.linear_layer(aligned_input_class[:,-1,:])  #H1的最后一行
+            print("class_num:", class_num.shape)
+       
         return answer
 
     def build_augmented_question(self, question: str, api_tips: list[str]) -> str:
@@ -100,7 +128,7 @@ class LlavaOnevisionPipeline:
     
 
     """
-    生成答案，并计算每个选项的得分。
+    生成答案，并计算每个选项的得分，代替了之前generate answer的方法。
     """
     def generate_answer_and_score(self, aligned_input, input_ids, max_new_tokens=20):
 
@@ -112,6 +140,7 @@ class LlavaOnevisionPipeline:
             input_ids=input_ids,
             max_new_tokens=max_new_tokens,
         )
+        #是不是得打印一下output_ids的shape
 
         # 获取文本嵌入
         text_embeds = self.model.language_model.get_input_embeddings()(output_ids.squeeze(0))
@@ -125,7 +154,7 @@ class LlavaOnevisionPipeline:
         # 获取得分最高的选项
         predicted_label = torch.argmax(probabilities, dim=-1).item()
         
-        # 解码生成的答案
+        # 解码生成的答案，和之前的相同
         answer = self.processor.tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0]
         
         return answer, predicted_label, probabilities
@@ -138,33 +167,8 @@ class LlavaOnevisionPipeline:
         input_ids, is_image_token = self.expand_image_tokens(input_ids, text_embeds)
         image_embeds = self.get_image_embeds(image_path, prompt)
         aligned_input = self.align_sequences(image_embeds, text_embeds, is_image_token)
-        answer = self.generate_answer(aligned_input, input_ids, max_new_tokens=1000)
+        answer = self.generate_answer(aligned_input, input_ids, max_new_tokens=20)
         return answer
-        
-        '''
-        带CoT
-        augmented_question = self.build_augmented_question(question, api_tips)
-        prompt = self.build_prompt(augmented_question)
-        print("Here is the final question:", prompt)
-        input_ids, text_embeds = self.get_text_embeds(prompt)
-        input_ids, is_image_token = self.expand_image_tokens(input_ids, text_embeds)
-        image_embeds = self.get_image_embeds(image_path, prompt)
-        aligned_input = self.align_sequences(image_embeds, text_embeds, is_image_token)
-        answer = self.generate_answer(aligned_input, input_ids, max_new_tokens=1000)
-        return answer
-        '''
-        
-        '''
-        初始
-        prompt = self.build_prompt(question)
-        input_ids, text_embeds = self.get_text_embeds(prompt)
-        input_ids, is_image_token = self.expand_image_tokens(input_ids, text_embeds)
-        image_embeds = self.get_image_embeds(image_path, prompt)
-        aligned_input = self.align_sequences(image_embeds, text_embeds, is_image_token)
-        #print("-----打印aligned_input------",aligned_input.shape)
-        answer = self.generate_answer(aligned_input, input_ids, max_new_tokens=100)
-        return answer
-        '''
 
 
 

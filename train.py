@@ -8,11 +8,13 @@ from aokvqa_dataset import AOKVQADataset  # 你的自定义 Dataset
 from torchvision import transforms
 from PIL import Image
 import torch.nn.functional as F
+from test_old import LlavaOnevisionPipeline
 
 '''
 在test withcot里面先跑一个看看有没有bug，run还没写，线性层矩阵维度还没改
 注意力的理论再推一次
-先一个batch里面单张开始训练跑跑bug
+API测试一下
+先一个batch里面开始训练跑跑bug，打印一下各个情况，看看情况
 '''
 
 def setup_lora(model, target_layers=[15, 16, 17], r=8, alpha=32, dropout=0.1):
@@ -39,7 +41,7 @@ def setup_lora(model, target_layers=[15, 16, 17], r=8, alpha=32, dropout=0.1):
     
     return model
 
-def prepare_dataloader(jsonl_path, batch_size=8):
+def prepare_dataloader(jsonl_path, batch_size=2):
     # 设置图像预处理（例如：调整大小、转为 tensor、标准化）
     transform = transforms.Compose([
         transforms.Resize((224, 224)),
@@ -105,7 +107,66 @@ def train(model, dataloader, optimizer, device=None):
 
         print(f"Loss: {total_loss.item()}, Predicted label: {predicted_label}, Ground truth label: {labels.item()}")
 
+def test(pipeline, dataloader, device=None):
+    pipeline.model.eval()
+    correct = 0
+    total = 0
+    with torch.no_grad():
+        for batch in dataloader:
+            print(batch)
+            images=batch['image_path']
+            for i in range(len(batch['image_path'])):
+                question = batch["question"][i]
+                choices = batch["choices"][i]
+                text = f"{question} Answer:{' '.join(choices)}"
+                labels = torch.Tensor(batch['label'][i]).to(device)
+                prompt = [f"Question:{text}"]
+                conversation = [
+                {
+
+                    "role": "user",
+                    "content": [
+                    {"type": "text","text":prompt},
+                    {"type": "image"},
+                        ],
+                    },
+                    ]
+                prompt = pipeline.processor.apply_chat_template(conversation, add_generation_prompt=True)
+                image=images[i]
+                image_embeds = pipeline.get_image_embeds(image, prompt)
+                input_ids, text_embeds = pipeline.get_text_embeds(prompt)
+                input_ids, is_image_token = pipeline.expand_image_tokens(input_ids, text_embeds)
+                aligned_input = pipeline.align_sequences(image_embeds, text_embeds, is_image_token)
+
+                predicted_label = pipeline.generate_answer(aligned_input, text_embeds)
+            
+            # predicted_label 应为 tensor 或 numpy
+                if isinstance(predicted_label, torch.Tensor):
+                    predicted_label = predicted_label.cpu()
+                correct += (predicted_label == labels.cpu()).sum().item()
+                total += labels.size(0)
+    acc = correct / total if total > 0 else 0
+    return acc
+
 if __name__ == "__main__":
+    '''
+    Test
+    '''
+    model_id = "/data/huggingface/models/llava-hf_llava-onevision-qwen2-7b-ov-hf"
+    #model = LlavaOnevisionForConditionalGeneration.from_pretrained(model_id, device_map="auto")
+    
+    # 使用 GPU
+    device = "cuda"
+    #model.to(device)
+    pipeline = LlavaOnevisionPipeline(model_id, device=device)
+   
+    # 准备数据集
+    dataloader = prepare_dataloader(jsonl_path="process.json")
+
+    #开始测试
+    test(pipeline, dataloader, device=device)
+    '''
+    train
     model_id = "llava-hf_llava-onevision-qwen2-7b-ov-hf"
     model = LlavaOnevisionForConditionalGeneration.from_pretrained(model_id, device_map="auto")
     model = setup_lora(model, target_layers=[15, 16, 17], r=8, alpha=32, dropout=0.1)  # 设置 LoRA 微调
@@ -122,3 +183,5 @@ if __name__ == "__main__":
     
     # 训练
     train(model, dataloader, optimizer, device=device)
+    '''
+
