@@ -32,7 +32,7 @@ def preprocess_aokvqa_train(
         question = item['question']
         choices = item['choices']
         label = item['label']
-        question_with_choices = f"Question:{question} Choice: {' '.join(choices)}"
+        question_with_choices = f"Question:{question} Choice: {'， '.join(choices)}"
             
 
         # COCO 图片路径（12位数字+jpg）

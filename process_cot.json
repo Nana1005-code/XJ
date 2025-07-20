@@ -1,2 +1,1000 @@
-{"image_path": "/data/aovkqa/train2017/000000299207.jpg", "question": "Question:What is the man by the bags awaiting? Choice: skateboarder train delivery cab", "label": 3}
-{"image_path": "/data/aovkqa/train2017/000000039446.jpg", "question": "Question:Where does this man eat pizza? Choice: office cafe motel outside", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000313088.jpg", "question": "Question:What position is this player playing? Choice: pitcher， outfielder， catcher， 1st base", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000578334.jpg", "question": "Question:Where is this location? Choice: starting line， park， riverside， finishing line", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000037864.jpg", "question": "Question:What is he doing with the horse? Choice: riding it， stealing it， feeding it， mounting it", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000128500.jpg", "question": "Question:This sign for the airport is most likely in which country? Choice: france， switzerland， germany， norway", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000045926.jpg", "question": "Question:What mode of transportation would probably be more comfortable for the travelers? Choice: skateboard， cattle truck， bus， tank", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000469085.jpg", "question": "Question:What activity is taking place in this venue? Choice: hiking， fishing， mountain climbing， camping", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000298591.jpg", "question": "Question:What keeps the elephants out of the buildings? Choice: water， herders， noise， rocks", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000469728.jpg", "question": "Question:Why is the bike attached to the rail? Choice: stay upright， easily spotted， prevent theft， to sell", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000201903.jpg", "question": "Question:What venue is this scene? Choice: expressway， highway， front yard， parking lot", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000284355.jpg", "question": "Question:What are the men on horses dressed as? Choice: cowboys， indians， police， ghosts", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000028589.jpg", "question": "Question:What usually goes inside of the item with the lid? Choice: human waste， towels， cows， mcdonald's", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000043279.jpg", "question": "Question:Why is the horse there? Choice: is lost， pull cart， for sale， giving rides", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000495454.jpg", "question": "Question:What allows the man to drag his luggage on the ground without getting damaged? Choice: grass， dirt， ice， snow", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000014321.jpg", "question": "Question:What is to the left of the motorcycles? Choice: dog， boat， cat， person", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000157037.jpg", "question": "Question:What is this type of building called? Choice: library， mall， supermarket， deli", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000408253.jpg", "question": "Question:What is the old woman doing? Choice: itching， using phone， laughing， massaging", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000020517.jpg", "question": "Question:What time is it in this location local time? Choice: 10 pm， 710 am， 710 pm， 1 am", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000016964.jpg", "question": "Question:What type of area is shown? Choice: country， city， forest， mountains", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000222842.jpg", "question": "Question:How do you say the name of the item on the plate next to the cake in Italian? Choice: cucchiaio， grazie， spoon， forchetta", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000048432.jpg", "question": "Question:What sport is the stick used for? Choice: hurling， golf， lacrosse， hockey", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000510515.jpg", "question": "Question:What type of statue is to the right front of the bench? Choice: wooden， jade， bust， kinetic", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000151648.jpg", "question": "Question:What are the animals eating? Choice: grass， dirt， hay， food", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000455536.jpg", "question": "Question:What is the area the man is skating in usually called? Choice: arena， bowl， deck， zoo", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000030815.jpg", "question": "Question:What type animal appears to be reading? Choice: live bear， stuffed bear， monkey， gazelle", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000056452.jpg", "question": "Question:What is the name of this sport referred to as in Europe? Choice: soccer， ballball， football， slimball", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000125365.jpg", "question": "Question:What surrounds the land? Choice: snow， water， sand， fire", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000558153.jpg", "question": "Question:In what environment does the apple tree appear to be located? Choice: farm， forest， backyard， greenhouse", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000087356.jpg", "question": "Question:How many wheels are visible on the large vehicle? Choice: two， three， six， four", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000105751.jpg", "question": "Question:What does the man want to do with the ball? Choice: hit it， kick it， catch it， dodge it", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000537069.jpg", "question": "Question:What is the boy ready to do here? Choice: dribble， dunk， swing， catch", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000126833.jpg", "question": "Question:Why might the man be sitting by himself? Choice: he's contagious， he's sick， he's antisocial， he's popular", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000201891.jpg", "question": "Question:Which one is doing silent work? Choice: none， middle， right， left", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000025858.jpg", "question": "Question:What sound do these animals make? Choice: woof， whistle， moo， meow", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000547744.jpg", "question": "Question:What region of this country does this bus travel in? Choice: east， west， north， south", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000219580.jpg", "question": "Question:Which country is this in? Choice: canada， france， united states， netherlands", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000428263.jpg", "question": "Question:What is the person in the white shirt ready to do? Choice: hit， duck， throw， catch", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000565869.jpg", "question": "Question:What is in the water? Choice: submarine， surfboarder， boat， seal", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000157093.jpg", "question": "Question:What flavor candy does this player chew here? Choice: bubble gum， chocolate， banana， mint", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000318702.jpg", "question": "Question:These people are most likely to show up as part of the cast for a sequel to what film? Choice: american beauty， downton abbey， blue velvet， us", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000456696.jpg", "question": "Question:What type of shoes are visible? Choice: trainers， plimsolls， heels， mules", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000326936.jpg", "question": "Question:What Item is a human most likely to trip over? Choice: stool， firewood， fan， bleach", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000134888.jpg", "question": "Question:What baseball player has the same first name as the name on the player all the way to the left's jersey? Choice: duke snider， jim kaat， alabama al， stanford napoli", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000264161.jpg", "question": "Question:What is the pink object next to the red book used to do? Choice: comb hair， brush teeth， write notes， clip nails", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000261587.jpg", "question": "Question:What is the name of the safety garment the wakeboarder is wearing? Choice: shin guards， helmet， glasses， life vest", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000176440.jpg", "question": "Question:In what year was this company involved in a large scale scandal? Choice: 2007， 2020， 2018， 2015", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000215691.jpg", "question": "Question:What is the name of the service that can fix sinks? Choice: carpenter， electrician， plumber， roofer", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000004289.jpg", "question": "Question:Why is the ground reflecting light? Choice: its plastic， its glass， its sand， its wet", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000292257.jpg", "question": "Question:What is the man closest to the ground using? Choice: pogo stick， drill， machete， baseball glove", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000109738.jpg", "question": "Question:The small truck was customized to fit at least how many people? Choice: nine， seven， four， 21", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000565875.jpg", "question": "Question:What does this animal eat? Choice: bears only， candy only， everything， veggies only", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000214481.jpg", "question": "Question:What is the window treatment called? Choice: shade， valance， cornice， cafe curtain", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000403981.jpg", "question": "Question:What is the purpose of the crate in this image? Choice: protection， heater， chair， storage", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000030448.jpg", "question": "Question:What type of area is this? Choice: tropical， urban， mountains， farm", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000409566.jpg", "question": "Question:What items are facing each other? Choice: posters， faucet， buckets， spoons", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000091442.jpg", "question": "Question:Why can't people go down this road at this time? Choice: tow accident， bus accident， escaped prisoner， fire", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000371945.jpg", "question": "Question:What nation is this train from? Choice: norway， holland， germany， sweden", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000432503.jpg", "question": "Question:In what setting is the skater skating? Choice: desert， oceanic， farm， urban", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000168583.jpg", "question": "Question:Where is this crowd of people hanging out? Choice: shopping mall， grocery store， movie theater， amusement park", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000032391.jpg", "question": "Question:Which type of writing is wrote on the top of the white banner of the shop closest to the camera? Choice: katakana， spanish， english or， kanji", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000312326.jpg", "question": "Question:What sort of place is this room inside of? Choice: jail， museum， store， butcher", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000469996.jpg", "question": "Question:What can be gotten at that booth? Choice: information， tickets， police， food", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000264567.jpg", "question": "Question:What type of career have these horsemen/women pursued? Choice: cowboys， mounted police， town criers， performers", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000070347.jpg", "question": "Question:Where is the horse's head most likely? Choice: museum， zoo， airport， racetrack", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000549394.jpg", "question": "Question:What important piece of safety gear is the kid missing? Choice: elbow pads， knee pads， helmet， wrist wraps", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000565395.jpg", "question": "Question:What are the couple travelling on? Choice: ferry， jet， helicopter， bus", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000266418.jpg", "question": "Question:What is the man standing in the boat trying to do? Choice: fish， swim， stretch， get help", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000438620.jpg", "question": "Question:Which pedestrian is walking safely? Choice: neither， both， pink shirt， blue shirt", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000153462.jpg", "question": "Question:Why is the man wearing an orange jacket? Choice: visibility， dress code， camouflage， fashion", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000507996.jpg", "question": "Question:What is the boy look at across the water? Choice: sand， nature， land， trees", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000221916.jpg", "question": "Question:What number can be found on the plate in the ground all the way to the right? Choice: 552， 961， 886， 169", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000470057.jpg", "question": "Question:What is the large rectangular container against the white wall used to collect? Choice: toys， water， animals， trash", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000579859.jpg", "question": "Question:The people riding on the red vehicle on the road can be classified as what type of passengers? Choice: commuters， tourists， workers， students", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000566798.jpg", "question": "Question:Who does the man communicate with here? Choice: waiter， child， seated woman， phone caller", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000386581.jpg", "question": "Question:What will she put on the car? Choice: ticket， business card， flyer， registration", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000445019.jpg", "question": "Question:What is near the ball? Choice: toddler， baby， batter， dog", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000116694.jpg", "question": "Question:What might the yellow vehicle carry? Choice: cars， airplane， furniture， mobile home", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000391235.jpg", "question": "Question:What does this girl pretend to play here? Choice: tennis， horseback roping， golf， cooking", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000416516.jpg", "question": "Question:What is the woman keeping in the stroller? Choice: fruit， groceries， baby， packages", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000530030.jpg", "question": "Question:What is the white swirly thing? Choice: marshmallow， piglet， ice cream， cloud", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000511842.jpg", "question": "Question:What can be done with these sauces? Choice: marinating， dipping， sauteing， grilling", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000541999.jpg", "question": "Question:What type of pants is the man in orange wearing? Choice: khakis， suit pants， jeans， shorts", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000576363.jpg", "question": "Question:What item would help the woman in the light tan shirt? Choice: bookend， ottoman， seesaw， luggage cart", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000431954.jpg", "question": "Question:In which sort of event does this woman pose? Choice: sale， auction， art musem， expo", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000435820.jpg", "question": "Question:What do two of the three men have on? Choice: glasses， tie， shirt， pants", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000411417.jpg", "question": "Question:What kind of thing is hanging on the motorcycle? Choice: air freshener， groceries， parking permit， necklace", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000232963.jpg", "question": "Question:What type of piano is the man playing? Choice: grand piano， console piano， spinet piano， upright piano", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000539233.jpg", "question": "Question:How many desk lamps are there? Choice: two， one， four， three", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000041890.jpg", "question": "Question:What country are the Bikers travelling in? Choice: holland， united states， mexico， canada", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000466882.jpg", "question": "Question:Which sport is played on a similar field? Choice: soccer， racquetball， ice hockey， water polo", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000433715.jpg", "question": "Question:Where did OG skateboarders develop this style of boarding? Choice: underpasses， skateparks， canals， swimming pools", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000268059.jpg", "question": "Question:Why is she cooking with wood? Choice: environmentally friendly， it's cheaper， better taste， no electricity", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000373683.jpg", "question": "Question:Based on their gear they are most likely competing in what event? Choice: biathlon， heptathlon， triathlon， pentathlon", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000556512.jpg", "question": "Question:What is the orange object on the woman's foot? Choice: crocs， water bottle， swimfins， socks", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000242301.jpg", "question": "Question:It is time to hit the? Choice: bed， waves， hay， weights", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000482300.jpg", "question": "Question:What is the most appropriate surface for this truck to drive on? Choice: grass， asphalt， sidewalk， concrete", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000062889.jpg", "question": "Question:What would people call the animals that are being caged? Choice: livestock， wild animals， endangered species， zoo animals", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000483992.jpg", "question": "Question:What s the main property of the red material in the jar on the back table? Choice: sour， spicy， oily， salty", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000086913.jpg", "question": "Question:What is the man swinging? Choice: baseball bat， shoelaces， basket， tennis racquet", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000283210.jpg", "question": "Question:How can they be identified? Choice: paws， eyes， tags， scars", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000099995.jpg", "question": "Question:The man plays a similar sport to what person? Choice: randy couture， mike trout， alex morgan， daniel bryan", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000240101.jpg", "question": "Question:The remote is meant to communicate with what? Choice: telephone， computer， television， video game", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000468798.jpg", "question": "Question:What gas causes these lights to glow? Choice: argon， oxygen， neon， hydrogen", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000318396.jpg", "question": "Question:What is this snowboarder in the process of doing? Choice: grabbing， jibbing， airing， stalling", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000430166.jpg", "question": "Question:What items are being shown off most frequently here? Choice: door knobs， green plants， boxes， pottery", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000006357.jpg", "question": "Question:Who is in the bed? Choice: mom， rabbit， little girl， man", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000027191.jpg", "question": "Question:Which of the following is famous for drowning while practicing this sport? Choice: mark foo， julian wilson， gabriel medina， lakey peterson", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000418219.jpg", "question": "Question:What type trees are shown in the area nearest the red shirted walker? Choice: fern， palm， evergreen， deciduous", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000322302.jpg", "question": "Question:Where is this desktop computer most likely located? Choice: work， library， home， classroom", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000235281.jpg", "question": "Question:What is the bottom signal on the light? Choice: heart， cow， egg， star", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000174901.jpg", "question": "Question:What type of lighting surrounds the mirror? Choice: led， florescent， incandescent， laser", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000146294.jpg", "question": "Question:What does Fly Emirates provide to the game? Choice: drink， food， sponsor， transportation", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000103413.jpg", "question": "Question:What will happen to the boy next? Choice: falling off， lying down， landing， flipping", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000009542.jpg", "question": "Question:What letter is obscured by the sign after the PHO? Choice: n， t， m， g", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000403937.jpg", "question": "Question:Who founded this school? Choice: singh， nehru， chaudhary， patel", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000264296.jpg", "question": "Question:What game would one expect to be played in this room? Choice: soccer， basketball， tennis， football", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000174028.jpg", "question": "Question:What is the brown wall behind the group made out of? Choice: wood， glass， bronze， plaster", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000081622.jpg", "question": "Question:From which material is the roofing most visible here sourced? Choice: clay， tar， concrete， wood", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000572012.jpg", "question": "Question:The feet of the man are placed on what two wheeled object? Choice: scooter， hoverboard， skateboard， caster board", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000411629.jpg", "question": "Question:What is traveling towards the man? Choice: tennis ball， dog， cow， bee", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000103516.jpg", "question": "Question:Why are the top of the rails in front of the train rusty? Choice: age， material quality， aesthetics， recent precipitation", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000580238.jpg", "question": "Question:Why does he have so much stuff with him? Choice: shopping， moving， homeless， traveling", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000134770.jpg", "question": "Question:When was that flavor of beverage relaunched in the United States? Choice: 2015， 2010， 2008， 2007", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000347131.jpg", "question": "Question:What fruit might this person eat first? Choice: kiwi， olives， acai berries， ugli", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000413874.jpg", "question": "Question:What is the profession of the men in white? Choice: athletes， nurses， doctors， teachers", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000326594.jpg", "question": "Question:This crumble is most likely what flavor? Choice: plum， blueberry， rhubarb， apple", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000062531.jpg", "question": "Question:Where is the man standing? Choice: kitchen， ladies restroom， family restroom， mens restroom", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000214124.jpg", "question": "Question:What shape is the food? Choice: circle， hexagon， square， triangle", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000081361.jpg", "question": "Question:The type of animal the doll is is the same as what famous character? Choice: daffy， garfield， pluto， yogi", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000238385.jpg", "question": "Question:What zone is depicted in the photo? Choice: residential， traffic， business， shopping", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000548545.jpg", "question": "Question:Who folded the toilet paper roll into a point to the left of the sink? Choice: nanny， clerk， cleaning staff， butler", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000128607.jpg", "question": "Question:What is the piece of equipment to the left of the monitor? Choice: printer， fax machine， router， computer tower", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000445503.jpg", "question": "Question:Where are the people located? Choice: restaurant， garage， stadium， office building", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000121018.jpg", "question": "Question:These people are making what kind of food? Choice: mexican， halal， kosher， chinese", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000488897.jpg", "question": "Question:What is holding the candles? Choice: spinner， candelabra， handle， silver stand", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000024763.jpg", "question": "Question:What unhealthy ingredient does this food contain the most? Choice: flour， sugar， nuts， chocolate", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000243820.jpg", "question": "Question:What is to the right of the sink? Choice: cat， cardboard box， scissors， roach", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000345667.jpg", "question": "Question:What business park does this company operate out of? Choice: pathfields， safeways， journeyman， legacy", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000236718.jpg", "question": "Question:The children seen here are helping their family do what? Choice: sell， move， couch surf， play ball", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000048332.jpg", "question": "Question:What number anniversary is being commemorated at this event? Choice: 316th， 216th， 276th， 376th", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000142080.jpg", "question": "Question:What does the man in white need to use? Choice: grill， emergency exit， restroom， sword", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000288943.jpg", "question": "Question:Why is the man leaning to his left? Choice: to dodge， to duck， to flip， to align", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000511299.jpg", "question": "Question:Why are clothes hung here? Choice: blew there， easy storage， signal， drying", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000490647.jpg", "question": "Question:What holiday is celebrated during this time of the year? Choice: easter， halloween， christmas， thanksgiving", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000363067.jpg", "question": "Question:What country are this breed of cows originally from? Choice: russia， france， south korea， england", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000021889.jpg", "question": "Question:Why is the man wearing an orange jumpsuit? Choice: punishment， cosplay， for fun， visibility", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000134496.jpg", "question": "Question:What religion is associated with her facial decoration? Choice: buddhism， hinduism， islam， judaism", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000181996.jpg", "question": "Question:What kind of service does the white sign promise? Choice: food prep， teeth cleaning， tanning， gardening", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000564063.jpg", "question": "Question:What safety gear will allow the people standing from worrying about getting fatally shot? Choice: bullet vest， bulletproof vest， gun vest， hard vest", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000507502.jpg", "question": "Question:What is the person in blue coat doing? Choice: sending email， taking photo， watching video， online shopping", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000036077.jpg", "question": "Question:What is the small mirror in this bus called? Choice: safety， rear view， back， traffic", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000158225.jpg", "question": "Question:What might the temperature be like where they are standing? Choice: dry， cold， moist， humid", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000309404.jpg", "question": "Question:Why do people eat this thing? Choice: animal abuse， thanksgiving， birthday celebration， meat lover", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000179875.jpg", "question": "Question:What human food would these animals be most willing to eat? Choice: bread， chocolate， hot peppers， steak", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000581282.jpg", "question": "Question:What activity are people holding umbrellas taking part in? Choice: standing， fleeing， singing， parade", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000470174.jpg", "question": "Question:What is in the center of the picture? Choice: statue， tv， window， wood stove", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000280596.jpg", "question": "Question:What profession do the gentlemen in orange wraps belong to? Choice: buddhist monk， builders， gardeners， salesmen", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000581199.jpg", "question": "Question:Which topping contains the most calcium? Choice: cheese， pepper， meat， olive", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000297210.jpg", "question": "Question:What made the grooves seen here? Choice: skis， gophers， snow groomer， children", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000209253.jpg", "question": "Question:Who will serve each person their food? Choice: themselves， no one， mother， dad", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000558286.jpg", "question": "Question:How does what he's looking at differ from reading news on a phone? Choice: lacks words， lacks news， lacks ads， on paper", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000580791.jpg", "question": "Question:What type of water is being served? Choice: spring， mineral， distilled， lemon", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000444955.jpg", "question": "Question:Where is the man storing his things? Choice: suitcase， duffel bag， purse， backpack", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000181436.jpg", "question": "Question:People in the red car hope to see what today? Choice: car wash， cyclists， eclipse， animals", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000303508.jpg", "question": "Question:What has been done to the watermelon? Choice: cut， smashed， diced， cooked", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000201928.jpg", "question": "Question:Where is this meal served? Choice: restaurant， airplane， picnic， home", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000534484.jpg", "question": "Question:Which country is famous for elephants? Choice: norway， sydney， thailand， dutch", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000401054.jpg", "question": "Question:What level of skier is this part of the hill designed for? Choice: advanced， expert， intermediate， beginner", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000481422.jpg", "question": "Question:How many spokes in the umbrella? Choice: four， ten， eight， three", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000115243.jpg", "question": "Question:What is he doing? Choice: showing off， waiting turn， resting， cleaning poles", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000229481.jpg", "question": "Question:What the is the woman to do? Choice: exercise， sleep， eat， travel", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000088185.jpg", "question": "Question:What could be seen on the other side of this post? Choice: mirror， tv screen， walk sign， ads", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000540529.jpg", "question": "Question:What event caused the tree on the left to look so discolored and bare? Choice: paint， fire， wind， water", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000561411.jpg", "question": "Question:What does this dog focus on? Choice: time clock， toys， screen， person", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000035726.jpg", "question": "Question:Who wrote a book whose title matches the word at the front top of the boat? Choice: joe hill， franz kafka， jack ryan， jim sturgess", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000232143.jpg", "question": "Question:What do you hang with the thing sitting on the folded blanket? Choice: clothes， hats， flowers， picture", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000260901.jpg", "question": "Question:What word is written on the blue truck? Choice: reuse， reduce， quickly， orange", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000333665.jpg", "question": "Question:Why are people looking at the ground? Choice: dog， bright， tripping hazard， slippery", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000159475.jpg", "question": "Question:Why is he leaning forward? Choice: is falling， maintaining balance， was surprised， bad back", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000280733.jpg", "question": "Question:If this bus is in its hometown what is the closest destination? Choice: turkey， japan， sweden， usa", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000023630.jpg", "question": "Question:What is there biggest predator? Choice: elephants， lions， crocodiles， rhinos", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000348948.jpg", "question": "Question:How many people are probably sitting down to the meal? Choice: four， one， two， three", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000240163.jpg", "question": "Question:What is the man taking? Choice: selfie， tray， his temperature， ticket", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000144618.jpg", "question": "Question:What type of hat is the man in the air wearing? Choice: beanie， fedora， baseball cap， derby", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000109869.jpg", "question": "Question:Cats use what body part to hold on tightly to an object while jumping? Choice: hoofs， nose， ears， claws", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000005643.jpg", "question": "Question:Where is the cat located at? Choice: on table， under table， floor， under chair", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000566704.jpg", "question": "Question:What garment is being worn by this man? Choice: shirt， diaper， tightie whities， none", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000278753.jpg", "question": "Question:What is the item under the counter? Choice: plunger， waste basket， mop， sink", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000278744.jpg", "question": "Question:What is the northern neighboring country of this country? Choice: canada， usa， mexico， guatemala", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000515214.jpg", "question": "Question:What substance flies up around this persons right shoe? Choice: clay， tar， coal， dried paint", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000061215.jpg", "question": "Question:This style of food is covered in what substance that transfers to your hands easily? Choice: grease， salt， meat， pepper", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000102090.jpg", "question": "Question:What are these people doing? Choice: cleaning up， drinking wine， complaining， arguing", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000262006.jpg", "question": "Question:Who are inside cars driving here? Choice: tourists， prisoners， zoo keepers， hunters", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000143824.jpg", "question": "Question:What animal is on the television screen? Choice: dog， elephant， lion， sheep", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000116678.jpg", "question": "Question:What level is this room on? Choice: second， ground， first， basement", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000488857.jpg", "question": "Question:Why does the green box have wires? Choice: vandalism， phone line， electric service， hold steady", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000327726.jpg", "question": "Question:What is the black couch against the wall made out of? Choice: wool， denim， nylon， leather", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000227186.jpg", "question": "Question:What is the man doing on the bike? Choice: talking， drinking， eating， waiving", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000259186.jpg", "question": "Question:What kind of support sleeves or braces is one player wearing? Choice: ankle， knee， elbow， wrist", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000061582.jpg", "question": "Question:How many individual sandwich pieces are in the image? Choice: four， seven， nine， two", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000304008.jpg", "question": "Question:What action is the man performing with the frisbee? Choice: throwing， blocking， slapping， catching", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000018792.jpg", "question": "Question:Where are the elephants located at? Choice: themed park， zoo， circus， wilderness", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000050992.jpg", "question": "Question:What did the man do to get the plastic bag? Choice: beg， shop， steal， spin", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000319682.jpg", "question": "Question:When these animals move what might one hear? Choice: screaming， thunder， trumpets， bells", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000190566.jpg", "question": "Question:What color jacket is the person wearing closer to another person? Choice: green black， yellow， yellow black， yellow green", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000217133.jpg", "question": "Question:What hobby does the car owner enjoy? Choice: skating， painting， surfing， biking", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000362309.jpg", "question": "Question:In what nation is this bus found? Choice: dominica， philippines， india， thailand", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000077628.jpg", "question": "Question:The lights of the motorcycles are reflecting off the pavement because of what reason? Choice: snow， slush， rain， sleet", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000128428.jpg", "question": "Question:The company whose name appears on the can was founded in what year? Choice: 1886， 1812， 1940， 1922", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000137407.jpg", "question": "Question:What American city is the bus most likely pictured in? Choice: detroit， chicago， d.c， philadelphia", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000009039.jpg", "question": "Question:What is the blue back piece of the plane called? Choice: fuselage， rotor， tail pipe， fin", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000268798.jpg", "question": "Question:Why is the man under the plane? Choice: is lost， stealing plane， is passenger， maintenance", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000303556.jpg", "question": "Question:Who is throwing the frisbee? Choice: boy， girl， man， woman", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000434354.jpg", "question": "Question:What can often be found under the tree seen here? Choice: mice， elves， dogs， gifts", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000306160.jpg", "question": "Question:How does the woman feel? Choice: cool， wet， cold， hot", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000314572.jpg", "question": "Question:Why is the animal that is hooked up to the cart doing? Choice: racing， eating， waiting， drinking", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000123286.jpg", "question": "Question:What is the relationship between the two players? Choice: competitors， coworkers， strangers， teammates", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000476517.jpg", "question": "Question:What bottled water company shares the same name as the plane? Choice: dasani， delta， poland spring， fiji", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000094770.jpg", "question": "Question:The inflatable display is meant to simulate which winter sport? Choice: skiing， snowboarding， curling， ice skating", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000308536.jpg", "question": "Question:Which one of these items would pair well with the items in the photo? Choice: monitor， clock， fireplace， pillow", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000488785.jpg", "question": "Question:What religion is practised in the visible building? Choice: judaism， hinduism， islam， christianity", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000202782.jpg", "question": "Question:The woman is doing what? Choice: crossing arms， running， stretching， jumping jacks", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000386272.jpg", "question": "Question:What are the people in line concerned about? Choice: buying tickets， reclaiming baggage， buying food， making reservations", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000132223.jpg", "question": "Question:What athlete plays the same sport the man is playing? Choice: kemba walker， dennis rodman， michael jackson， aaron judge", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000159714.jpg", "question": "Question:Why are the animals in the enclosed area? Choice: to sell， to judge， to trim， to ride", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000221004.jpg", "question": "Question:The yellow and green objects are the same what? Choice: age， caliber， species， model", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000535418.jpg", "question": "Question:Where is the boy visiting? Choice: zoo， jungle， yard， school", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000304434.jpg", "question": "Question:What company designed this operating system? Choice: apple， samsung， google， microsoft", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000410068.jpg", "question": "Question:In how many directions or orientations are cars parked on either side of the street here? Choice: two， four， one， three", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000329931.jpg", "question": "Question:What lights up this girls lower face? Choice: spotlight， refrigerator light， overhead light， flashlight", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000505967.jpg", "question": "Question:In which city may you find this street? Choice: new york， las vegas， las angeles， reno", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000533619.jpg", "question": "Question:What are the women intending to bake? Choice: bread， pie， pizza， meat", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000145369.jpg", "question": "Question:What are the white objects near the elephants mouth made of? Choice: plastic， carbon， ivory， steel", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000174019.jpg", "question": "Question:Is it safe to cross here across division street at this exact time? Choice: unknown， no， perhaps， yes", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000187072.jpg", "question": "Question:What race is this family? Choice: asia， multi-race， white， black", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000506327.jpg", "question": "Question:What poisonous gas can be produced here? Choice: arsine， carbon monoxide， hydrogen sulfide， hydrogen fluoride", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000023108.jpg", "question": "Question:What are they showing with this display? Choice: possibilities， randomness， contrast， colors", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000369961.jpg", "question": "Question:What does the boy come here for? Choice: cross country， working， finding frisbee， hiding", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000293505.jpg", "question": "Question:Who paved this street? Choice: municipality， neighbors， cows， no one", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000228920.jpg", "question": "Question:Where is the child doing arts and crafts? Choice: school， home， daycare， expo", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000110821.jpg", "question": "Question:What caused the tomatoes to shrivel up? Choice: heat， spice， knife， acid", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000489333.jpg", "question": "Question:Why do jockey's wear helmets? Choice: match clothes， look nice， protect head， draw attention", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000404464.jpg", "question": "Question:What is the man riding? Choice: bicycle， motorcycle， snowboard， skateboard", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000547752.jpg", "question": "Question:What is in the refrigerator? Choice: bees， ant， coconut， milk", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000388374.jpg", "question": "Question:What type of trees are growing in this location? Choice: pine trees， palm trees， willow trees， birch trees", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000048034.jpg", "question": "Question:What is the boy doing? Choice: stretching， running， descending， ascending", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000333565.jpg", "question": "Question:Which animal particularly likes to eat the food she is holding? Choice: shark， rabbit， tiger， monkey", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000112444.jpg", "question": "Question:Who would be found here? Choice: vampire， taoist， altar boy， buddhist", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000283267.jpg", "question": "Question:What color pants is the woman wearing? Choice: black， yellow， red， green", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000089765.jpg", "question": "Question:What is in the bottle on the left? Choice: sesame oil， olive oil， canola oil， vegetable oil", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000239483.jpg", "question": "Question:What is the green cord or line wrapping under the bike and on the grass? Choice: tether， hose， vine， string", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000356286.jpg", "question": "Question:What type room is this? Choice: parking garage， bathroom， living， showroom", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000233994.jpg", "question": "Question:What is usually found in this setting? Choice: fish， tigers， wolves， lions", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000319055.jpg", "question": "Question:The antenna on top of the building is used to receive what type of broadcast signal? Choice: cellular， radio， television， weather alerts", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000083178.jpg", "question": "Question:What are people doing here? Choice: dancing， jogging， singing， buying food", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000064481.jpg", "question": "Question:What is the dominate color of the object the woman is carrying with her left arm? Choice: pink， red， orange， purple", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000198936.jpg", "question": "Question:What is the girl doing? Choice: feeding dog， watching tv， selling dog， stealing dog", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000544457.jpg", "question": "Question:The symbols are from what culture? Choice: greek， egyptian， assyrian， asian", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000170630.jpg", "question": "Question:What is the woman using the bowl for here? Choice: hidden camera， feeding baby， feed pet， trapping rats", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000313341.jpg", "question": "Question:Which process has been performed on the closer lady's hair? Choice: dying， braiding， perming， shaving completely", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000038840.jpg", "question": "Question:How did the snow get on the ground here? Choice: blizzard， carried up， snow machine， blew there", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000012269.jpg", "question": "Question:Why is the girl holding the umbrella? Choice: blocking sun， blocking rain， to buy， to sell", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000573063.jpg", "question": "Question:The birthday celebration is occurring during which part of the day? Choice: night， morning， noon， afternoon", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000311522.jpg", "question": "Question:What is the man dressed in all black and in the middle of the scene holding? Choice: carrot， rabbit， ski poles， baby", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000398615.jpg", "question": "Question:What vehicles are on the street? Choice: train， bus， car， motorcycle", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000434700.jpg", "question": "Question:Which company has sponsored this event? Choice: american express， bmw， sony， visa", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000066976.jpg", "question": "Question:What object is the item under the dog linked to? Choice: television， computer， boombox， radio", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000247576.jpg", "question": "Question:What is indicated by the marking on the road? Choice: bike lane， crosswalk， railroad crossing， two lanes", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000320875.jpg", "question": "Question:Why is she holding her hands out? Choice: threatening woman， is gesturing， eating tacos， drying out", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000160938.jpg", "question": "Question:In which type space is cake being cut? Choice: arena， private home， stadium， rest home", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000513676.jpg", "question": "Question:How many flavors available in AquaBall water? Choice: ten， 14， 12， 20", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000502232.jpg", "question": "Question:What is the mouse's wife's name? Choice: justina， minnie， dasha， delores", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000573854.jpg", "question": "Question:Which vehicle can carry the most volume of supplies? Choice: green plane， blue plane， van， luggage cart", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000061498.jpg", "question": "Question:What are the tennis balls in the cart for? Choice: selling， training， playing， gifting", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000497504.jpg", "question": "Question:Which one of these businesses can use the space advertised? Choice: restaurant， skating rink， lawyer， theater", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000202923.jpg", "question": "Question:What is the purpose of the fence? Choice: stop balls， restrain fans， detain players， clean field", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000287387.jpg", "question": "Question:What plant adds bitterness to this beverage? Choice: hops， corn， mugwort， sugar", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000524459.jpg", "question": "Question:What are the toucan and the man going to enjoy? Choice: soda， beer， some wine， some water", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000296876.jpg", "question": "Question:What are the animals gathering in the middle of? Choice: parking lot， lake， field， forest", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000431675.jpg", "question": "Question:Why are the cars lined up along the curb? Choice: to vacuum， to inspect， to wash， to park", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000503689.jpg", "question": "Question:Where are the boy's hands while batting a baseball? Choice: above， side， behind， front", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000278001.jpg", "question": "Question:What is the tall thin thing above the red thing used for? Choice: climbing， holding balloons， holding kites， displaying colors", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000271011.jpg", "question": "Question:Why are the men all wearing helmets? Choice: accident safety， trendy， warmth， sunblock", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000201452.jpg", "question": "Question:Why are the surfer's hesitant to surf here? Choice: huge waves， rocks， small waves， cold water", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000560010.jpg", "question": "Question:The kite flying looks like what? Choice: canoe， ship， car， duck", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000416105.jpg", "question": "Question:What did the person shown here just do? Choice: fly， quit， return ball， serve", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000263603.jpg", "question": "Question:What is roughly the fastest you could go using anything in this picture? Choice: 28 mph， 220 mph， 14 mph， 120 mph", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000154083.jpg", "question": "Question:What is holding down the kites? Choice: dumbbells， rocks， feet， bricks", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000293576.jpg", "question": "Question:What would you get help with if you went into the green Fidelity building? Choice: investing， cooking， mailing， marriage counseling", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000327713.jpg", "question": "Question:What type of station is in this area? Choice: bus， gas， train， fire", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000050837.jpg", "question": "Question:Which country's flag is in the middle of the three? Choice: united states， canada， mexico， france", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000496313.jpg", "question": "Question:What is the bus doing? Choice: going straight， backing up， yielding， turning right", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000509584.jpg", "question": "Question:What are the vehicles getting onto? Choice: parking lot， dock， street， boat", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000224592.jpg", "question": "Question:What allows this machine to be airborne? Choice: reverse gravity， magic， lift， wind", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000159233.jpg", "question": "Question:What is this type of bike called? Choice: ripper， stroller， cruiser， chopper", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000180539.jpg", "question": "Question:WHat kind of competition is taking place? Choice: snowball， skiing， ice， snowboard", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000067078.jpg", "question": "Question:Why is the man holding a microphone? Choice: he's yelling， he's singing， he's crying， he's speaking", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000442874.jpg", "question": "Question:What does the boat at the water's edge run on? Choice: engine， rowing， sails， no propulsion", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000521874.jpg", "question": "Question:Why is the train so small? Choice: for paupers， no money， for children， easily sold", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000368905.jpg", "question": "Question:What collar is the leash in the dog at the top? Choice: black， pink， blue， green", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000351749.jpg", "question": "Question:Where is the person who threw the ball? Choice: outfield， pitcher's mound， batters cage， bull pen", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000334775.jpg", "question": "Question:How many people can sleep in this room? Choice: six， four， two， eight", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000278662.jpg", "question": "Question:How is the small vessel being moved? Choice: motor， sail， pushed， towed", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000373073.jpg", "question": "Question:If someone bought this house how might they clean their dinner plates most easily? Choice: windex， microwave， dishwasher， scrub brush", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000112995.jpg", "question": "Question:How will the watercraft user manage to direct themselves toward a goal? Choice: drone， oars， pulling， will", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000422170.jpg", "question": "Question:What are the people sitting on? Choice: bleachers， beach， beds， chairs", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000339111.jpg", "question": "Question:The person next to the train looks like who? Choice: tracy ifeachor， james horner， ned beatty， margaret qualley", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000342765.jpg", "question": "Question:What is the object on the right side of the top freezer compartment? Choice: pencil sharpener， button maker， blade sharpener， bottle opener", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000021194.jpg", "question": "Question:What can he do with this ball? Choice: juggle， serve， dunk， dribble", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000065835.jpg", "question": "Question:What is the white linen item under the dinnerware called? Choice: placemat， tablecloth， doily， table runner", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000044856.jpg", "question": "Question:What helps propel the person forward at this location? Choice: poles， nothing， gravity， sheer will", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000390742.jpg", "question": "Question:What will happen if someone leaves their vehicle in front of this sign? Choice: arrested， stolen， towed， ticketed", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000034624.jpg", "question": "Question:What was used to make their desk? Choice: granite， metal， marble， wood", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000208003.jpg", "question": "Question:What prevents the Giraffes from escaping the fence? Choice: material， color， it's width， texture", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000049119.jpg", "question": "Question:What are ships carrying goods called? Choice: freighter， sail boat， cargo ship， goods ship", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000218917.jpg", "question": "Question:In which country is this shop located? Choice: kenya， spain， china， united states", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000543082.jpg", "question": "Question:The man who received the first patent for this sport was from which country? Choice: australia， togo， lithuania， netherlands", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000123389.jpg", "question": "Question:What is the purpose of the little white container? Choice: dip， shot， toy， paint", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000469834.jpg", "question": "Question:What are the long poles under the umbrella made out of? Choice: plastic， stone， bamboo， steel", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000539418.jpg", "question": "Question:Why is he carrying his surfboard? Choice: stealing it， exercise， done surfing， hiding it", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000190360.jpg", "question": "Question:Why would the cat lay here? Choice: warmth， playfulness， food， cooling", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000250295.jpg", "question": "Question:Why does the man use a rope? Choice: control， tie， climb， attach", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000446974.jpg", "question": "Question:What's seen on the window? Choice: insects， fingerprints， raindrops， stickers", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000522234.jpg", "question": "Question:Which company makes the green object here? Choice: wilson， coleco， kenner， timberland", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000166716.jpg", "question": "Question:What will probably happen next? Choice: crash， trick， jump， rest", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000002687.jpg", "question": "Question:Why are the men's coats yellow in color? Choice: camouflage， dress code， visibility， fashion", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000165094.jpg", "question": "Question:What does the object in the image do? Choice: takes money， car， phone， tracks you", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000133456.jpg", "question": "Question:What are the animals doing on the hill? Choice: mating， eating， fighting， sitting", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000466615.jpg", "question": "Question:What did the woman in purple just do? Choice: reading， working， shopping， parked car", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000391887.jpg", "question": "Question:What profession can be seen? Choice: garbage man， rancher， firefighter， cowboy", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000032720.jpg", "question": "Question:What letter might she see on the racquet from her perspective? Choice: d， p， g， q", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000243947.jpg", "question": "Question:What indicates that this is a tourist area? Choice: aquarium， lodges， lawns， people", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000355415.jpg", "question": "Question:How many days ago was this cake made? Choice: one day， today， three days， two days", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000261118.jpg", "question": "Question:What is the red rectangular box with windows on the right used for? Choice: sitting， collecting trash， buying food， phones calls", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000265513.jpg", "question": "Question:What is the boy in the blue t shirt climbing? Choice: tree， fence， swing set， hill", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000108123.jpg", "question": "Question:What city is located in the state that the players in the dugout are from? Choice: detroit， tulsa， tucson， atlanta", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000306030.jpg", "question": "Question:Which country headquarters the brand company of the laptop? Choice: italy， india， japan， china", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000337525.jpg", "question": "Question:What are the white particles around the dog? Choice: sparkling spray， water， hail， snow", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000551194.jpg", "question": "Question:The animals that the children are riding belongs to what family of animals? Choice: bovidae， felidae， equidae， canidae", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000429437.jpg", "question": "Question:What type of rice is that? Choice: raw， boiled， steamed， fried", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000160239.jpg", "question": "Question:What is the float in the shape of? Choice: deathstar， carrot， whale， fox", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000467564.jpg", "question": "Question:What objects are stored on top of the red vehicle? Choice: tools， hoses， luggage， tires", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000123229.jpg", "question": "Question:What likely made the tracks on the ground? Choice: plane， skis， cows， truck", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000085948.jpg", "question": "Question:What kind of ball is the elephant holding? Choice: baseball， golf ball， basketball， volleyball", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000333613.jpg", "question": "Question:What should have the guy down with the toilet seat prior to urinating? Choice: kept down， raise it， broken it， disassembled", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000081784.jpg", "question": "Question:What is the man helping the young woman with in the sand? Choice: collect turtles， collect water， lay towel， build sandcastle", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000212801.jpg", "question": "Question:What is unusual about the animal on the sail? Choice: wearing clothes， talking， wrong color， wrong habitat", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000333130.jpg", "question": "Question:What kind of power does this train use? Choice: steam， coal， diesel， electricity", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000023368.jpg", "question": "Question:What type of enclosure is shown? Choice: fence， barn， cage， gate", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000312412.jpg", "question": "Question:Which object would be grabbed if someone wanted to get a drink of water? Choice: wine bottle， bottom-left glass， food plate， wine glass", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000372612.jpg", "question": "Question:What is the man on the phone doing? Choice: exercising， crying， laughing， eating", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000046055.jpg", "question": "Question:The utensils above are mainly made from? Choice: clay， minerals， loam， glass", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000139789.jpg", "question": "Question:What is this man doing with this jewelry? Choice: wearing it， selling it， stealing it， destroying it", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000471473.jpg", "question": "Question:What is the name of the way the man in the street is wearing his pants? Choice: sagging， cut-offs， casual， high-waisted", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000034993.jpg", "question": "Question:What is taboo to wear with his footwear? Choice: gloves， pants， hat， socks", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000287400.jpg", "question": "Question:How many uses is the cup container designed for? Choice: three， one， two， infinite", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000354955.jpg", "question": "Question:What is the bench covered in? Choice: mud， moss， vines， animals", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000495266.jpg", "question": "Question:What sex is this man's opponent here most likely? Choice: woman， trans， intersex， man", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000460115.jpg", "question": "Question:What country manufactures the goods made by the sponsor under the clock? Choice: germany， uganda， france， switzerland", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000279524.jpg", "question": "Question:Where is the boy most likely to be headed? Choice: shower， prom， swimming， gym", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000390749.jpg", "question": "Question:Where should the reflective items on the peoples high foreheads really be? Choice: ski bottoms， on knees， over eyes， on chin", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000211600.jpg", "question": "Question:Where is this person located? Choice: office， restaurant， home， store", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000227813.jpg", "question": "Question:What might he have applied before going out there? Choice: hairspray， lipstick， sunscreen， foundation", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000278512.jpg", "question": "Question:What had recently happened when this plane landed prior to this place? Choice: snow， rain， sunny day， tornado", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000222588.jpg", "question": "Question:These people are most likely at what kind of an event? Choice: motorcycle rally， inauguration， asian parade， circus", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000403064.jpg", "question": "Question:What is causing the faint red and green images in the right straight ahead? Choice: milking cows， window glare， cows， road sign", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000024380.jpg", "question": "Question:What soft drink is advertised to the left of William Hill? Choice: mountain dew， 7-up， coke zero， diet pepsi", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000213532.jpg", "question": "Question:These children have ancestors most likely from where? Choice: finland， mexico， vietnam， kazakhstan", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000537604.jpg", "question": "Question:Why does the dog have a party hat tied to him? Choice: fashion， protection， his birthday， identification", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000055733.jpg", "question": "Question:What have the girls been doing? Choice: skiing， building snowmen， snowboarding， cooking", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000151844.jpg", "question": "Question:If you wanted to wash clothes near here what would you need? Choice: credit cards， nothing， dollar bills， coins", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000569775.jpg", "question": "Question:What is on the placemat next to the woman? Choice: cat， scissors， glass， teapot", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000017487.jpg", "question": "Question:What is the person doing to the cat? Choice: feeding it， bathing it， petting it， hitting it", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000391703.jpg", "question": "Question:How big is this hot dog compared to the average hot dog? Choice: much smaller， same size， much bigger， little smaller", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000152328.jpg", "question": "Question:Which wrong furnishing has the woman put on? Choice: pants， shoes， shirt， purse", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000232689.jpg", "question": "Question:What is the right side of the room mainly used for? Choice: sleeping， gaming， bathing， cooking", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000359719.jpg", "question": "Question:'what time of day is this ultimate frisbee game being played? Choice: morning， two pm， noon， night", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000200033.jpg", "question": "Question:What is the man in the yellow shirt playing? Choice: drums， guitar， buckets， harp", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000291320.jpg", "question": "Question:Why is the man wearing a yellow vest? Choice: costume， disguise， visibility， fashion", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000274541.jpg", "question": "Question:What type of electronic devices are they using? Choice: cell phone， tablet， desktop computer， laptop computer", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000059207.jpg", "question": "Question:Which one is likely to be the daughter? Choice: front， they're men， back， they're sisters", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000491732.jpg", "question": "Question:In which position is the ball being served? Choice: under handed， none， left handed， over head", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000545002.jpg", "question": "Question:What protective gear should the man wear? Choice: headband， scarf， helmet， knee pads", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000279543.jpg", "question": "Question:What are the white fin shapes parts on the back of the plane called? Choice: air tips， spoilers， horizontal stabilizers， slats", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000024097.jpg", "question": "Question:Where are these elephants located? Choice: circus， wild， parade， zoo", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000080430.jpg", "question": "Question:What is the man about to do? Choice: bat， swing， dunk， dribble", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000539072.jpg", "question": "Question:What type of shop is the one with the woman's picture in a circle on the window? Choice: bakery， bookstore， music shop， women's clothing", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000213393.jpg", "question": "Question:What is the best material for a skateboard? Choice: maple， pine， palm， coconut", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000289621.jpg", "question": "Question:What kind of brush is being used? Choice: paint， hair， tooth， pet", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000142014.jpg", "question": "Question:What kind of sign is shown? Choice: traffic， name， brand， price", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000385405.jpg", "question": "Question:What type of store is this? Choice: shoe， grocery， pet， beauty", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000406116.jpg", "question": "Question:The woman using the cell phone traveled to which Caribbean country? Choice: bahamas， jamaica， puerto rico， cuba", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000134079.jpg", "question": "Question:What company is famous for making the item the man has that is covering his legs? Choice: mizuno， green giant， nathan's， levi strauss", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000380552.jpg", "question": "Question:If you want to use this transport what can you feed it? Choice: electricity， carrots， coal， gas", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000241058.jpg", "question": "Question:The kitchen is currently in the process of what residence-related activity? Choice: selling， new construction， remodeling， demolition", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000435010.jpg", "question": "Question:Where is this man located? Choice: desert， ski resort， beach， mountains", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000234516.jpg", "question": "Question:What kind of store are the trucks parked in front of? Choice: electronics， toy， grocery， hardware", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000334400.jpg", "question": "Question:Why is the man's shirt yellow? Choice: camouflage， visibility， dress code， fashion", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000048531.jpg", "question": "Question:What will the player do next? Choice: block， dribble， swing， run", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000434187.jpg", "question": "Question:Why is the man holding a phone out in front of him? Choice: sending email， scanning barcode， reading text， taking photo", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000084162.jpg", "question": "Question:What vehicle used for this water transportation? Choice: yacht， canoe， cargo ship， raft boat", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000042785.jpg", "question": "Question:This dish is usually eaten using what? Choice: hands， chopsticks， spoon， fork", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000506075.jpg", "question": "Question:What activity is the individual engaging in? Choice: boxing， climbing， running， taekwondo", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000365313.jpg", "question": "Question:What is the tall white object behind the couch? Choice: barrier， statue， vase， lamp", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000231655.jpg", "question": "Question:What material is this grey boat made of? Choice: carbon fiber， rubber， metal， wood", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000514601.jpg", "question": "Question:Why are there signs hanging from the ceiling? Choice: advertisements， identify benches， guide travelers， cameras", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000522146.jpg", "question": "Question:Why are there ropes attached to the boat? Choice: to swing， to fish， to climb， to anchor", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000019542.jpg", "question": "Question:The car is operating during which season? Choice: summer， spring， winter， fall", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000177994.jpg", "question": "Question:What train car is this a virtual depiction of? Choice: coach， dining， sleeper， business", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000391254.jpg", "question": "Question:What kind of protest is taking place? Choice: racial justice， union workers， religious， political", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000254774.jpg", "question": "Question:What type of trick has the person in blue done? Choice: superman， mctwist， flip， grind", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000046149.jpg", "question": "Question:Where are the people located? Choice: canada， africa， antarctica， us", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000011034.jpg", "question": "Question:They have appropriate accommodations for which one of these animals? Choice: snake， ant， gerbil， guppy", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000389031.jpg", "question": "Question:Why are they under umbrellas? Choice: rain， privacy， sun， snow", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000560391.jpg", "question": "Question:What are the stacks of newspaper for? Choice: reading material， selling them， cleaning area， hold fruit", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000091636.jpg", "question": "Question:Who manufactured this motorcycle? Choice: honda， harley davidson， suzuki， kawasaki", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000330204.jpg", "question": "Question:In what state was this vehicle operational based on its information screen? Choice: new york， colorado， california， ohio", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000054421.jpg", "question": "Question:What type bear does the photographer favor? Choice: bud， none， coors， heineken", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000191511.jpg", "question": "Question:What is the blue round object sitting on the desk a model of? Choice: planet， gyroscope， moon， globe", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000141755.jpg", "question": "Question:What type of building is in the distance? Choice: hospital， store， residence， church", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000570128.jpg", "question": "Question:How did the man get his hair to stand up? Choice: steam， glue， gel， water", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000360307.jpg", "question": "Question:Who is known for playing the same position as the man with the black wristband? Choice: gary carter， otis nixon， mike trout， trevor story", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000018918.jpg", "question": "Question:How is dough kneaded here? Choice: in sink， by machine， with knives， hand only", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000103711.jpg", "question": "Question:What is the man in the centre holding? Choice: bat， sword， rifle， ax", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000182860.jpg", "question": "Question:Which national flag is in the segment screen of this broadcast? Choice: france， uk， netherlands， german", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000143554.jpg", "question": "Question:What is he doing with the frisbee? Choice: holding it， throwing it， balancing it， twirling it", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000360143.jpg", "question": "Question:Why is he leaning sideways? Choice: bouncing， balance himself， falling， jumping", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000252244.jpg", "question": "Question:What part of his body will be most harmed by the item in his mouth? Choice: back， lungs， feet， eyes", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000521288.jpg", "question": "Question:Whos is the little elephant likely following? Choice: friend， teacher， mother， great grandfather", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000476785.jpg", "question": "Question:What is the woman staring at? Choice: cat， dog， television， man", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000315303.jpg", "question": "Question:What necessary condition hasn't been met for this vehicle to travel? Choice: coal burning， water underneath， nice weather， wind blowing", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000152731.jpg", "question": "Question:What terrain is featured here? Choice: desert， plain， savanna， beach", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000414495.jpg", "question": "Question:What is in the can on the back of the toilet? Choice: hairspray， cleanser， air freshener， shampoo", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000526922.jpg", "question": "Question:What type of problem is happening? Choice: snowstorm， traffic jam， thunderstorm， house fire", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000461805.jpg", "question": "Question:What is the event shown in the picture? Choice: food festival， carnival， car parking， car show", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000300578.jpg", "question": "Question:What is the woman on the right holding in her hand? Choice: squash， potatoes， cabbage， watermelon", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000265225.jpg", "question": "Question:What in the room has to be changed before new guests arrive? Choice: curtains， linens， office chair， sofa", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000339382.jpg", "question": "Question:Why is he holding the umbrella? Choice: confused， food dry， likes umbrella， self dry", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000566757.jpg", "question": "Question:What will persons on train most likely do next? Choice: eat dinner， board train， sing， get off", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000258628.jpg", "question": "Question:Who will get the point being played? Choice: shown player， let， no one， opposite player", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000238749.jpg", "question": "Question:Why is there a lid on the yellow cup? Choice: prevent spills， to hit， decorative purposes， to shake", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000479612.jpg", "question": "Question:What company makes the appliance? Choice: sunbeam， sharp， panasonic， dyson", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000324603.jpg", "question": "Question:What hair style does the girl in blue have? Choice: pig tails， mullet， pony tail， crew cut", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000293274.jpg", "question": "Question:What is the flag called that is on the poster in the front window of the bus? Choice: union jack， french flag， old glory， american flag", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000093763.jpg", "question": "Question:Where is the group focusing their attention? Choice: poster， screen， speaker， performer", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000061460.jpg", "question": "Question:What is the camera looking at? Choice: beach， chair， campground， floor", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000260618.jpg", "question": "Question:What is next to the food? Choice: egg timer， map， measuring cup， pizza cutter", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000581451.jpg", "question": "Question:What item on this hot dog is most unusual? Choice: ketchup， peas， onions， mustard", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000051168.jpg", "question": "Question:During which season is the train operating? Choice: fall， summer， winter， spring", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000484575.jpg", "question": "Question:Why is the ball above her racquet? Choice: hitting ball， is confused， showing off， is targeted", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000073109.jpg", "question": "Question:Where can we find the sign above? Choice: kitchen， ocean， road， home", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000051920.jpg", "question": "Question:Where does pizza come from? Choice: america， germany， italy， britain", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000078982.jpg", "question": "Question:What is being promoted on the right truck? Choice: beer， local radio， milk， cookies", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000122861.jpg", "question": "Question:Which direction are the surfers going? Choice: towards shore， randomly， along shore， leaving shore", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000191197.jpg", "question": "Question:What is the girl pointing to? Choice: elbow， head， knee， foot", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000123412.jpg", "question": "Question:What is the name for the symbols used on the clock? Choice: wingdings， cursive， roman numerals， widgets", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000278301.jpg", "question": "Question:What is the gold lining in the doorway called? Choice: gold leaf， tinsel， plastic， ermine", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000173340.jpg", "question": "Question:What is the problem with this picture? Choice: too bright， photoshopping， too dark， cropping", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000034525.jpg", "question": "Question:The river here seem to have done what? Choice: dammed up， flooded， meandered， dried up", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000579127.jpg", "question": "Question:What's the name of the skateboarding trick the man is doing? Choice: tail slide， aerial grab， kick flip， 180", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000495124.jpg", "question": "Question:What can be done with the large flat white object? Choice: iron clothes， eat dinner， store food， open/close", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000042529.jpg", "question": "Question:What period of the day is reflected in the image? Choice: morning， afternoon， evening， night", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000262869.jpg", "question": "Question:What is the person wearing? Choice: helmet， suspenders， goggles， tie", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000070809.jpg", "question": "Question:What footwear company made the grey sneakers? Choice: vans， sketchers， reebok， nike", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000137004.jpg", "question": "Question:What are the tan baskets made out of? Choice: plastic， cotton， straw， aluminum", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000226498.jpg", "question": "Question:Why are they all running in the same direction? Choice: being chased， going home， return school， chasing ball", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000044471.jpg", "question": "Question:What should the pedestrians do in this situation? Choice: wait， go， say hi， slow down", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000465677.jpg", "question": "Question:Where is this man located? Choice: florida， canada， maine， alaska", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000506500.jpg", "question": "Question:How does the man power the small boat? Choice: sail， engine， sun， paddle", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000378090.jpg", "question": "Question:What session of the day is shown here? Choice: morning， dawn， evening， afternoon", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000207424.jpg", "question": "Question:This sandwich is likely high in what? Choice: roe， vegetables， cholesterol， vitamins", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000451104.jpg", "question": "Question:What is he doing? Choice: clearing snow， stealing machine， selling machine， exercising", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000376342.jpg", "question": "Question:What reason is the person wearing black marks under his eye? Choice: mascara， being pretty， glare reduction， native tattoo", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000511670.jpg", "question": "Question:What goes in the black pouch clipped to the man's belt? Choice: whistle， bear spray， cellphone， glasses", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000336862.jpg", "question": "Question:What company designed the red outfit? Choice: nike， zara， champion， adidas", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000382589.jpg", "question": "Question:What was someone doing in the bed? Choice: gaming， reading， eating， painting", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000008746.jpg", "question": "Question:Why does he have the ball? Choice: showing off， losing control， stole it， curious", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000047054.jpg", "question": "Question:A digital single lens reflex is normally known as? Choice: dssl， dlrs， dssl， dslr", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000205221.jpg", "question": "Question:How is this guy most likely moving around? Choice: taxi， car， bike， foot", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000134772.jpg", "question": "Question:What is the woman doing near the kitchen counter? Choice: texting， pouring， eating， exercising", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000405663.jpg", "question": "Question:What is likely to next touch this cow? Choice: taser， gun， doggie， rope", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000444719.jpg", "question": "Question:Why is the woman holding her hand to her head? Choice: to direct， to wave， to pose， to dance", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000120472.jpg", "question": "Question:What part of the flower is covering up the reproductive parts from view? Choice: stem， sepal， petals， leaf", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000340594.jpg", "question": "Question:What do the two people at the ends of each side of the table have in common? Choice: glasses， coats， hats， backpacks", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000279784.jpg", "question": "Question:What is next to the sandwich? Choice: baby， apple， dipping sauce， woman", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000437518.jpg", "question": "Question:What is he doing? Choice: seeking car， reading sign， seeking food， waiting crossing", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000204238.jpg", "question": "Question:What cartoon is featured on the backpack on the right? Choice: clone wars， family guy， simpsons， rugrats", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000318857.jpg", "question": "Question:Why can we see his foot through the table? Choice: it's glass， hole， it's broken， it's plastic", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000147309.jpg", "question": "Question:What is on the plate in the foreground? Choice: bran muffin， cake， apple， cookie", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000347217.jpg", "question": "Question:What's the man taking a break from? Choice: skateboarding， wrestling， basketball， volleyball", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000041645.jpg", "question": "Question:Why are the cookies on the rack? Choice: showcasing， painting， squishing， cooling", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000037001.jpg", "question": "Question:How many different kinds of animals are represented by the fluffy toys? Choice: four， two， three， one", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000086738.jpg", "question": "Question:Whose home field stadium is this? Choice: mariners， yankees， rockies， mets", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000473190.jpg", "question": "Question:These items that are moving can be referred to as being part of what? Choice: school， fleet， clowder， database", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000518321.jpg", "question": "Question:This man looks most like what celebrity? Choice: cynthia nixon， ed sheeran， omar epps， frank zappa", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000271038.jpg", "question": "Question:Why would you look at this building? Choice: schedule， menu， time， temperature", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000468178.jpg", "question": "Question:What terrain is this? Choice: savanna， beach， desert， plain", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000474069.jpg", "question": "Question:Which structure was put up most recently? Choice: high rise， tent， clock tower， statue", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000252535.jpg", "question": "Question:What drags skiers up the mountain? Choice: taxis， goats， cables， sherpas", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000254392.jpg", "question": "Question:To open and close the umbrella the cat is missing what ability? Choice: pushing， grabbing， all correct， grasping", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000545237.jpg", "question": "Question:What is the circular light on the tall building? Choice: clock， floodlight， window， sign", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000306711.jpg", "question": "Question:What are the smaller animals to the right of the black sheep called? Choice: fledglings， lamb， puppies， kittens", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000215170.jpg", "question": "Question:What is stacked on the table? Choice: notebooks， candy， vinyl records， cellphones", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000351747.jpg", "question": "Question:Toward what does number 15 run? Choice: outfield， home base， first base， coach", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000305103.jpg", "question": "Question:What is the woman doing with her legs in preparation to serve the ball? Choice: crossing， moving， positioning， exercising", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000308701.jpg", "question": "Question:What does the red X sign signify? Choice: construction， traffic light， crossing， school zone", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000371608.jpg", "question": "Question:What is the job of this horse? Choice: carry， jump， race， pull", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000088835.jpg", "question": "Question:What is the right lane used for? Choice: turns， parking， racing， paying", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000504980.jpg", "question": "Question:What meal is being served? Choice: dinner， breakfast， afternoon tea， lunch", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000536429.jpg", "question": "Question:Why are so many vases together? Choice: to sell， storage， to break， collection", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000135989.jpg", "question": "Question:What would explain the bad smell here? Choice: construction site， toilet， dirty floor， sink", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000264353.jpg", "question": "Question:What is the relationship of the smaller giraffe to the bigger one? Choice: peer， offspring， mate， prey", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000150114.jpg", "question": "Question:What will be at the train station waiting for it? Choice: passengers， employees， people， all correct", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000513854.jpg", "question": "Question:How is electricity being transported? Choice: power lines， trucks， frisbee， clouds", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000457230.jpg", "question": "Question:What body part is protected by the attachment on the helmets they are wearing? Choice: arms， neck， throat， face", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000547533.jpg", "question": "Question:What are the rectangular objects above the handlebars? Choice: risers， mirrors， shocks， lights", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000225574.jpg", "question": "Question:What sort of creature is the large kite made to resemble? Choice: bird， amphibian， man， mammal", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000065957.jpg", "question": "Question:The female player is making what shot? Choice: backhand， forehand， lob， serve", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000080360.jpg", "question": "Question:What is in the little white plastic containers? Choice: coffee creamer， ketchup， jelly， butter", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000176397.jpg", "question": "Question:The item the man is sitting on is likely made of what? Choice: wheat， wood， straw， mud", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000378214.jpg", "question": "Question:What event are the animals taking part in? Choice: revolt， livestock show， slaughter， escaping", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000203612.jpg", "question": "Question:Why is the man wearing a glove? Choice: fashion， health， warmth， to catch", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000023631.jpg", "question": "Question:What does the number 56 signify here? Choice: prime number， racing entry， end ranking， model number", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000064551.jpg", "question": "Question:What type of biking event is being held here? Choice: hetrosexual， sit in， bake sale， gay", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000257804.jpg", "question": "Question:What are these people doing with their cellphones? Choice: taking selfie， taking photo， making call， watching video", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000167346.jpg", "question": "Question:What group of people are they likely to be? Choice: americans， russians， europeans， australians", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000486620.jpg", "question": "Question:What is on the skateboarder in the middle's head? Choice: cowboy hat， baseball cap， hood， crown", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000154462.jpg", "question": "Question:What type of phone is being used? Choice: pay， cellular， rotary， landline", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000507889.jpg", "question": "Question:What type of area is this? Choice: stadium， port， beach， backyard", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000299675.jpg", "question": "Question:What type of floor has been laid in the kitchen? Choice: tyle， carpet， linoleum， hardwood", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000322194.jpg", "question": "Question:What would one see if the red item is removed? Choice: head， pumpkin， waist， foot", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000519906.jpg", "question": "Question:Which drink is a sponsor of the event? Choice: coke， dasani， monster， budweiser", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000051808.jpg", "question": "Question:In case of fire which direction would one turn the pentagonal nipples on the hydrant shown here? Choice: in， down， right， left", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000362971.jpg", "question": "Question:What aisle of the grocery store might this product be found? Choice: toilet paper， produce， canned goods， meats", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000336101.jpg", "question": "Question:Who is the man holding hotdogs? Choice: audience， sport player， customer， referee", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000214055.jpg", "question": "Question:Who created the first successful vehicle of this type? Choice: elon musk， nikola tesla， orville wright， karl benz", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000362348.jpg", "question": "Question:Where are bananas from? Choice: asia， italy， spain， africa", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000445462.jpg", "question": "Question:What is the color of chair? Choice: green， pink， white， red", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000283118.jpg", "question": "Question:How is the food item shown here prepared? Choice: baked， boiled， broiled， fried", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000027005.jpg", "question": "Question:What type of labeling is on the barrel? Choice: brand， regulatory， warning， directional", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000568560.jpg", "question": "Question:What is he ready to do? Choice: strike， swing， dunk， rebound", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000143989.jpg", "question": "Question:What kind of transportation is shown? Choice: air， rail， road， water", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000191061.jpg", "question": "Question:What is the color of second vehicle? Choice: brown， pink， red， white", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000251252.jpg", "question": "Question:What kind of bike is this? Choice: scooter， motorbike， bicycle， vespa", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000307993.jpg", "question": "Question:Which finger of the man's right hand is obscured? Choice: middle， thumb， pinky， ring", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000456584.jpg", "question": "Question:What does the top-right board display? Choice: tv show， train departures， advertisements， plane departures", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000365711.jpg", "question": "Question:What will the white material on this surfer's face prevent? Choice: sunburn， nothing， drowning， recognition", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000167642.jpg", "question": "Question:What would someone use this room to do? Choice: sleep， shower， play， cook", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000419632.jpg", "question": "Question:What profession is shown here? Choice: construction， farmer， cowboy， firefighter", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000262605.jpg", "question": "Question:What hat was the woman just wearing? Choice: baseball cap， knit beanie， top hat， fireman's hat", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000297509.jpg", "question": "Question:What is the woman doing? Choice: eating， talking， sleeping， working", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000530653.jpg", "question": "Question:What action will put the man playing skateboard at risk? Choice: go straight， back up， turn left， turn right", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000337552.jpg", "question": "Question:In which state do these boarders walk? Choice: hawaii， arkansas， washington， oregon", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000219820.jpg", "question": "Question:What type of view do the passengers have? Choice: forest， desert， waves， mountains", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000415750.jpg", "question": "Question:Behance network has done most projects on which mobile? Choice: samsung， nokia， lenovo， lg", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000116851.jpg", "question": "Question:In which setting is this clock? Choice: tundra， suburban， rural， urban", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000116517.jpg", "question": "Question:What field are these people in? Choice: broadcasting， scientific， medical， commercial", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000392457.jpg", "question": "Question:What kind of parking is available? Choice: lot， parallel， diagonal， valet", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000560173.jpg", "question": "Question:What are the red planters on the left made from? Choice: metal， aluminum， bricks， plastic", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000212241.jpg", "question": "Question:What are the wires above the train for? Choice: climbing， decoration， protection， power", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000246307.jpg", "question": "Question:In what type of housing complex is this kitchen part of? Choice: university dorm， condominium， apartment， detached home", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000045059.jpg", "question": "Question:What effect appears on the jacket of the cyclist behind the bus? Choice: camouflage， neon， lighting， sparkling", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000491191.jpg", "question": "Question:What style apartment is this? Choice: garden， high rise， loft， penthouse", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000382659.jpg", "question": "Question:The clock is on a building that has the name of what on it's side? Choice: car， tulip， vodka， beer", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000133225.jpg", "question": "Question:What type of food is on top of the bread? Choice: fruit， vegetables， noodles， meat", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000356648.jpg", "question": "Question:One of the athletes drinks in the refrigerator contains what substance that increases the body's ability to generate energy? Choice: lemonade， electrolyte， water， juice", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000187280.jpg", "question": "Question:What is shown on the front of the bus? Choice: destination， warning， owner， speed", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000064244.jpg", "question": "Question:What body of water is this likely to be? Choice: pool， pond， river， sea", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000258346.jpg", "question": "Question:What animals can be seen in this picture? Choice: dogs， cats， gulls， chickens", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000392136.jpg", "question": "Question:Why is the man in short sleeves walking near the bus? Choice: for fun， to arrest， to enter， to race", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000000925.jpg", "question": "Question:His outfit is well suited for what setting? Choice: club， beach， office， space", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000392445.jpg", "question": "Question:What are his fingers touching? Choice: legs， charger， keyboard， screen", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000486350.jpg", "question": "Question:What state is this in? Choice: nevada， utah， california， washington", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000053913.jpg", "question": "Question:What move has the player just used? Choice: lob， backhand， forehand， serve", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000281562.jpg", "question": "Question:What is the average size of the neck of this animal? Choice: six feet， two feet， twelve feet， thirty feet", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000291528.jpg", "question": "Question:What spread is on the toast? Choice: jam， nutella， margarine， peanut butter", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000157516.jpg", "question": "Question:Where is this man and child sitting? Choice: starbucks， peets， bus stop， orange julius", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000470117.jpg", "question": "Question:What is the wooden structure for? Choice: driving， walking up/down， storing groceries， grinding grain", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000407607.jpg", "question": "Question:What is on the wall above the TV? Choice: poster， smoke alarm， monkey， clock", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000531949.jpg", "question": "Question:What emotion is the woman feeling? Choice: fear， anger， sadness， joy", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000070932.jpg", "question": "Question:How many functional keys in the keyboard? Choice: 15， 13， 12， 11", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000065488.jpg", "question": "Question:Why is the woman wearing the covering around her neck? Choice: keeping warm， covering scar， vanity， style", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000240689.jpg", "question": "Question:Why is the boy standing on one leg? Choice: hot sand， yoga， lost balance， earthquake", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000535218.jpg", "question": "Question:Why is the man reaching under his leg? Choice: to dance， to pick， to catch， to itch", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000451643.jpg", "question": "Question:What is the blue box used for? Choice: storage， parking， toilet， resting", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000205432.jpg", "question": "Question:What is the object hanging underneath the roof eave? Choice: signal light， flood light， camera， speaker", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000491372.jpg", "question": "Question:What color skin does the tartest fruit seen here have? Choice: green， yellow， orange， red", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000456563.jpg", "question": "Question:What are the breaded items? Choice: beef， shrimp， sardines， chicken", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000579057.jpg", "question": "Question:What type of food is the yellow item at the back of the bowl? Choice: fruit， pepper， egg， vegetable", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000224523.jpg", "question": "Question:The man in black is dressed like what star? Choice: john travolta， tom cruise， elvis， danny devito", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000240586.jpg", "question": "Question:Asphalts are used to construct what? Choice: house， roads， building， harbor", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000050578.jpg", "question": "Question:Which acid is present in orange? Choice: tannic acid， citric acid， tartaric acid， amino acid", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000150686.jpg", "question": "Question:The destination on the top of the bus is a city in what country? Choice: guam， nepal， thailand， netherlands", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000032549.jpg", "question": "Question:What activity is the woman participating in? Choice: shopping， cleaning， sleep， travel", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000063140.jpg", "question": "Question:What cloth item hangs next to the man? Choice: tablecloth， banner， curtain， poster", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000499786.jpg", "question": "Question:What type of parking is shown? Choice: valet， diagonal， lot， street", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000073450.jpg", "question": "Question:What is the worker doing? Choice: loading cargo， unloading cargo， cleaning cargo， selling cargo", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000301266.jpg", "question": "Question:What type items are the focus of the work here? Choice: baskets， chop sticks， cutlery， skewers", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000152600.jpg", "question": "Question:What is the glass container likely to be? Choice: bookshelf， tv stand， fish tank， china cabinet", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000493841.jpg", "question": "Question:What period of the day is it in the image? Choice: afternoon， night， evening， morning", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000411223.jpg", "question": "Question:What is closest to the person? Choice: banana， barrel， baby， tiger", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000453496.jpg", "question": "Question:What does the circular sign below the left traffic light mean? Choice: no exit， no loitering， no turns， no parking", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000482525.jpg", "question": "Question:How many people are probably getting ready to dig into the desserts? Choice: two， one， three， four", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000051920.jpg", "question": "Question:How many different flavors of pizza did they order? Choice: three， five， one， two", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000342232.jpg", "question": "Question:Why is he smiling? Choice: is wealthy， for camera， showing off， is proud", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000579664.jpg", "question": "Question:What color are the spots on the fruits? Choice: red， black， white， blue", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000331272.jpg", "question": "Question:What building or structure is the electric train underneath of? Choice: funnel， archway， tunnel， bridge", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000211164.jpg", "question": "Question:What is the bowl made from? Choice: wood， steel， plastic， glass", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000487835.jpg", "question": "Question:Where is the person walking? Choice: river， forest， roadway， subway", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000557886.jpg", "question": "Question:What is the tallest item here? Choice: horse， building， bush， telephone pole", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000367951.jpg", "question": "Question:Why might the dog be near the tub? Choice: to bathe， to guard， to play， to eat", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000510096.jpg", "question": "Question:What action are they taking? Choice: stop， descend， strike， ascend", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000542111.jpg", "question": "Question:Why is he standing like that? Choice: falling， slipped， showing off， hitting ball", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000491830.jpg", "question": "Question:What type vehicle does this sign refer to? Choice: large truck， bike， roller blade， mini bike", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000113251.jpg", "question": "Question:What time of day is shown here? Choice: midnight， noon， dawn， late morning", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000175459.jpg", "question": "Question:What does the open store on the left sell? Choice: bikes， drugs， shirts， gas", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000507783.jpg", "question": "Question:What are these types of bags primarily used for? Choice: selling， buying， traveling， trading", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000259099.jpg", "question": "Question:What vehicle is boarded in this building? Choice: cars， bus， train， gondola", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000240543.jpg", "question": "Question:What might this trick's technique be called? Choice: kick flip， christ air， side spill， rim rocker", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000566576.jpg", "question": "Question:What country is this station located at? Choice: singapore， norway， america， england", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000085284.jpg", "question": "Question:Where is this parking structure located? Choice: culver city， portland， chicago， los angeles", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000292931.jpg", "question": "Question:What has this piece of pottery been repurposed as? Choice: dog bed， planter， cat bed， paper weight", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000518774.jpg", "question": "Question:Why is the woman in purple with the purple purse holding up her right hand? Choice: flying kite， signaling help， volunteering， waving", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000201043.jpg", "question": "Question:Why are the umbrellas hung upside down? Choice: protest， luck， sales display， rain protection", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000299343.jpg", "question": "Question:What does this bus have a connection to? Choice: television， restaurants， subways， internet", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000180315.jpg", "question": "Question:What is the elephant doing? Choice: bathing， eating dinner， escaping， drinking water", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000485413.jpg", "question": "Question:What kind of horseback riding style is this? Choice: western， arabian， english， group", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000027012.jpg", "question": "Question:What types of signs are shown? Choice: informational， warning， traffic， directional", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000200416.jpg", "question": "Question:What kind of skateboard ramp is this? Choice: bowl， half pipe， quarter pipe， launch", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000184532.jpg", "question": "Question:Where would more well known government workers work here? Choice: rightmost building， middle building， leftmost building， park", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000536416.jpg", "question": "Question:What color is the wetsuit of the woman who is standing on the surf board? Choice: green， black， blue， red", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000380252.jpg", "question": "Question:How many species rest here? Choice: three， none， one， ten", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000381630.jpg", "question": "Question:What kind of place is this? Choice: garage， shed， barn， city", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000559840.jpg", "question": "Question:What side dish would compliment his food quite well? Choice: soup， apples， fries， milk", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000176432.jpg", "question": "Question:What boy would feel at home among these characters? Choice: christopher robin， hansel， peter pan， jack", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000429042.jpg", "question": "Question:What size helmet does a 6 year old need? Choice: 60cm， 35cm， 53cm， 78cm", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000432897.jpg", "question": "Question:What is primarily done on the furniture in the background? Choice: swing， sleep， sit， lay", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000407115.jpg", "question": "Question:What does this store sell? Choice: tires， coffee， cars， horses", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000170077.jpg", "question": "Question:What weather phenomena wouldn't threaten this boy? Choice: heat， tornado， rain， hurricane", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000184416.jpg", "question": "Question:How many hours until midnight? Choice: two， three， four， eight", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000566752.jpg", "question": "Question:What publication did this magazine start out as? Choice: pamphlet， novel， tabloid， newspaper", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000166840.jpg", "question": "Question:What type of headwear is the boy in white wearing? Choice: bandana， skullet， beanie， cap", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000524533.jpg", "question": "Question:What country is this street found in? Choice: france， australia， united states， britain", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000270836.jpg", "question": "Question:Where is this elephant located? Choice: wild， pet store， farm， zoo", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000230468.jpg", "question": "Question:Where are the people located? Choice: school， hospital， restaurant， home", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000157358.jpg", "question": "Question:What enables these people to go faster on the street? Choice: roller blades， ice skates， skate boards， roller skates", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000414162.jpg", "question": "Question:Who are these people? Choice: athletes， criminals， interns， ambassadors", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000216681.jpg", "question": "Question:What is the person with the kite doing? Choice: flying， kite flying， sailing， kitesurfing", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000521671.jpg", "question": "Question:What creature does this animal like to feed on? Choice: fish， beef， eggs， oranges", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000479948.jpg", "question": "Question:What is the net in front of the spectators there for? Choice: stop ball， chicken pen， player captivity， punishment", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000059494.jpg", "question": "Question:In what area is this chair located? Choice: park， playground， side walk， backyard", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000447147.jpg", "question": "Question:What is safest to touch without being burned? Choice: foil， inside stove， food， pan", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000494594.jpg", "question": "Question:This person is wearing what type of orthodox headwear? Choice: estonian， amish， russian， jewish", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000235296.jpg", "question": "Question:How did the woman come here? Choice: by car， by bike， by train， on foot", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000214385.jpg", "question": "Question:What age group is most represented at this location? Choice: seniors， teens， children， adults", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000346138.jpg", "question": "Question:What vessel is needed to serve these foods? Choice: plate， pan， cup， bowl", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000106794.jpg", "question": "Question:What is the person in the carriage most likely looking for? Choice: food， hay， predators， passengers", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000084540.jpg", "question": "Question:When did two companies merge into this one bank? Choice: 2018， 1981， 2008， 1995", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000405980.jpg", "question": "Question:What color shirt does the person opposing the wii woman in black? Choice: striped gray， green stripe， black， none", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000479727.jpg", "question": "Question:What color building material is popular for construction here? Choice: red， green， white， clear", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000250001.jpg", "question": "Question:Who is the person sitting high above the tennis net? Choice: referee， trainer， coach， announcer", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000423711.jpg", "question": "Question:Why is one person wearing a uniform? Choice: police officer， event employee， firefighter， nurse", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000284902.jpg", "question": "Question:What color is most of the fruit? Choice: red， yellow， green， orange", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000110353.jpg", "question": "Question:Who is this area designed for? Choice: employees， public， customers， politicians", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000454172.jpg", "question": "Question:What is the man trying to do to the bird? Choice: photograph it， trim it， capture it， feed it", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000373338.jpg", "question": "Question:What type of vehicle is in front of the building? Choice: rental， bus， passenger， commercial", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000144298.jpg", "question": "Question:What letter is on the bumper? Choice: p， ， g， o", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000357755.jpg", "question": "Question:What part of the country is he riding on? Choice: valley， coastline， plateau， mountain", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000072155.jpg", "question": "Question:What part of the bench has been removed? Choice: seat， legs， footrest， back", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000464079.jpg", "question": "Question:What are they looking at? Choice: small child， soap opera， video screen， trained puppy", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000436585.jpg", "question": "Question:What is available on this meal among the following ingredients options? Choice: rice， beans， broccoli， kale", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000477852.jpg", "question": "Question:Who is most likely named Laurent? Choice: lead bike， rear bike， sponsor， photographer", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000267694.jpg", "question": "Question:What is the pattern of the tablecloth? Choice: farm， checkered， striped， spotted", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000189780.jpg", "question": "Question:What are the people waiting to do? Choice: eat， work， ride train， dance", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000220821.jpg", "question": "Question:What animal is in the photo? Choice: bull， dog， giraffe， hen", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000184889.jpg", "question": "Question:What are the kids here going to do? Choice: board train， hide， exit train， sell lemonade", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000434221.jpg", "question": "Question:What country is this vehicle associated with? Choice: mexico， uk， kenya， us", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000052073.jpg", "question": "Question:Why is this food unhealthy? Choice: high sugar， high sodium， high fat， high carbohydrate", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000394071.jpg", "question": "Question:How are her shoes tightened? Choice: velcro， buckles， zippers， laces", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000235949.jpg", "question": "Question:If the boy overeats he will get what kind of body ache? Choice: ear， eye， stomach， back", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000369259.jpg", "question": "Question:What time of day is it? Choice: night， evening， morning， afternoon", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000054479.jpg", "question": "Question:What is different about the batter from most other batters? Choice: weight， height， bats left-handed， glasses", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000507887.jpg", "question": "Question:Where would you most likely see this type of pizza served with wine? Choice: uk， canada， italy， usa", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000035367.jpg", "question": "Question:How many cakes needed to cool down before adding a creamy glaze to it? Choice: two， none， three， one", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000006701.jpg", "question": "Question:What are the construction barrels filled with? Choice: sand， tar， equipment， paint", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000379502.jpg", "question": "Question:What category of pizza would this fall into? Choice: vegetarian， meat lovers， pesto， pepperoni", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000347542.jpg", "question": "Question:What powers the lights here? Choice: hot water， oil， gas， solar panels", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000239130.jpg", "question": "Question:Why is the man's vest orange? Choice: visibility， camouflage， fashion， dress code", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000131093.jpg", "question": "Question:What are these animals called? Choice: dogs， cows， sheep， deer", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000216502.jpg", "question": "Question:What color range is shown in the image? Choice: sepia， warm colors， full-color， monochrome", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000345844.jpg", "question": "Question:What field do the men work in? Choice: art， medicine， technology， construction", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000364665.jpg", "question": "Question:What is the likely flavor of these muffins? Choice: pumpkin， blueberry， red velvet， banana", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000427895.jpg", "question": "Question:What are the men doing? Choice: fighting， fixing plane， playing tennis， falling", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000004739.jpg", "question": "Question:What is the cow doing? Choice: sleeping， smelling meat， eating， grilling", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000323536.jpg", "question": "Question:What event is happening here? Choice: motorcycle parade， car race， car show， car sale", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000333088.jpg", "question": "Question:What kind of room is this one? Choice: dining room， music room， karaoke room， recreation room", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000048692.jpg", "question": "Question:What kind of scale is used here? Choice: potted， balance， virtual， accuracy", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000146601.jpg", "question": "Question:What is this type of cooking called? Choice: vegan， handmade， fat-free， production line", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000391011.jpg", "question": "Question:The man listed was Mayor of what city? Choice: denver， oklahoma city， jackson， austin", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000428576.jpg", "question": "Question:What drink is normally put in the white cups on the table? Choice: wine， soda， coffee， water", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000315322.jpg", "question": "Question:Which vehicle is most likely to have more than 10 passengers? Choice: double-decker bus， blue car， white truck， silver truck", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000006842.jpg", "question": "Question:Where are the cats playing? Choice: sink， sand， river， parking lot", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000212817.jpg", "question": "Question:Why does he have goggles on? Choice: be found， protect eyes， stop rain， showing off", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000263202.jpg", "question": "Question:Where is LG main headquarters? Choice: busan， ulsan， seoul， changwon", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000030838.jpg", "question": "Question:What mechanism is the seat attached to? Choice: ski lift， roller coaster， slide， swing", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000080078.jpg", "question": "Question:What section of the grocery store is this? Choice: frozen， vegetables， dairy， fruits", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000400950.jpg", "question": "Question:Why is the girl wearing a helmet? Choice: costume， protection， style， for fun", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000536041.jpg", "question": "Question:What is she doing? Choice: eating sheep， stealing sheep， watching sheep， counting sheep", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000398798.jpg", "question": "Question:Adidas multinational brand is belongs to which country? Choice: uk， germany， us， canada", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000565875.jpg", "question": "Question:What is the driver doing? Choice: resting， taking photo， yielding， driving", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000451412.jpg", "question": "Question:What is the toddler about to do? Choice: flush toilet， poo， throw up， pee", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000146397.jpg", "question": "Question:How many scatters partially skate on one wheel? Choice: two， one， seven， four", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000039100.jpg", "question": "Question:What month of the year is represented by the number on his bike? Choice: april， august， november， july", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000139011.jpg", "question": "Question:What area is shown here? Choice: bus stop， cake walk， taxi stand， bike pull", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000246084.jpg", "question": "Question:How does the seated man think the standing man is acting? Choice: guilty， funny， depressed， whiny", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000141501.jpg", "question": "Question:What is the tall fence for? Choice: security， blocking animals， blocking vehicles， sturdy structure", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000037826.jpg", "question": "Question:What does the man do with the object around his neck? Choice: call， text， paint， take photos", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000230057.jpg", "question": "Question:Why is the zebra moving its head to the ground? Choice: to attack， to eat， to hide， to drink", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000329952.jpg", "question": "Question:What is the snowboarder doing in the air? Choice: tailwhip， grinding， grab， falling", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000478874.jpg", "question": "Question:What is the young girl using the pink object in her hand to do? Choice: wash hair， comb hair， dry hair， brush teeth", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000145637.jpg", "question": "Question:What country is represented on the surf board? Choice: united kingdom， russia， germany， united states", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000182801.jpg", "question": "Question:Who has priority on the crossing when the light is red? Choice: women， ceos， pedestrians， drivers", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000184523.jpg", "question": "Question:In what kind of room is this bed? Choice: den， barn， motel， luxury mansion", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000352073.jpg", "question": "Question:Which person has exposed to the sun the most? Choice: right girl， left girl， back man， back woman", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000088825.jpg", "question": "Question:To which direction of the woman is the sun located? Choice: back， left， right， front", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000440339.jpg", "question": "Question:Donuts sprinkles are made up of what? Choice: plants， sugar， honey， flour", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000544502.jpg", "question": "Question:What will the person here do with the ball? Choice: throw netwards， throw upwards， pocket it， throw away", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000399165.jpg", "question": "Question:What is another sport that takes place in this sort of environment? Choice: tennis， snowboarding， cycling， baseball", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000057306.jpg", "question": "Question:What is the man attempting to do with the device in his hand? Choice: throw it， eat it， make call， break it", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000194704.jpg", "question": "Question:How does the stuff collected on the ski change when warm? Choice: into water， gets sticky， gets smelly， gets hard", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000222394.jpg", "question": "Question:What do they have attached to their feet? Choice: snow shoes， flippers， skis， skates", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000235543.jpg", "question": "Question:Why is the child sitting next to the cake? Choice: safety， it's his， cleaner， no chairs", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000380893.jpg", "question": "Question:Why is the dog on the other dog? Choice: mate， fight， hide， play", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000338544.jpg", "question": "Question:Which person seen here goes faster over time? Choice: shark rider， boat， surfer， canoe", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000291144.jpg", "question": "Question:What happens if you leave your car parked here an hour and a half? Choice: bulk rate， nothing， commendation， ticket", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000447354.jpg", "question": "Question:What tubed type cured sausage is seen here? Choice: hot dogs， italian， relish， pepperoni", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000551571.jpg", "question": "Question:Which lane may this car continue forward on? Choice: left， any， none， right", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000017707.jpg", "question": "Question:What will this tent offer protection from? Choice: tsunami， insects， gangs， sun", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000046674.jpg", "question": "Question:Where is the water pouring on the umbrella coming from? Choice: rain， roof， beach， garden-hose", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000118019.jpg", "question": "Question:What is the two people's relationship? Choice: coworkers， siblings， strangers， lovers", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000095808.jpg", "question": "Question:What protective gear does the man in yellow have? Choice: helmet， pads， mask， goggles", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000442840.jpg", "question": "Question:What item is drawn on the cake? Choice: stalactite， sun， earth， moon", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000237919.jpg", "question": "Question:What is the woman in the chair's role? Choice: ball boy， line judge， referee， chair umpire", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000166328.jpg", "question": "Question:What type of dog is this? Choice: poodle， husky， setter， cat", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000551598.jpg", "question": "Question:What are the stuffed animals shaped like? Choice: bears， boars， bulls， baboons", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000424482.jpg", "question": "Question:What type of shot is the man hitting? Choice: slice， forehand， backhand， serve", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000068594.jpg", "question": "Question:Why is the man holding a plastic bag? Choice: being mischievous， as punishment， for fun， making purchase", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000199502.jpg", "question": "Question:Which hormone is responsible for sleep? Choice: oxytocin， estrogen， progesterone， melatonin", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000233164.jpg", "question": "Question:What type of sign is this? Choice: brand， warning， directional， regulatory", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000191188.jpg", "question": "Question:Which animals here are being penned? Choice: horses， all， dogs， pigs", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000580735.jpg", "question": "Question:What are the objects placed on? Choice: floor， sofa， towel， paper", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000147073.jpg", "question": "Question:The work of art on the large wall is meant to look like something that cooks what? Choice: eggs， eggs， hot dogs， bread", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000113334.jpg", "question": "Question:What is near the trees? Choice: wolves， hyenas， beavers， snow", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000550666.jpg", "question": "Question:Hawes Garage is the repairing center of? Choice: software， mobiles， appliances， automobiles", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000511892.jpg", "question": "Question:What kind of setting is this venue? Choice: laboratory， domestic kitchen， factory， commercial kitchen", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000058171.jpg", "question": "Question:What type tooth is this youngster lacking? Choice: molar， none， wisdom， baby", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000129803.jpg", "question": "Question:Which people first brought this animal to the Americas? Choice: british， portuguese， italian， spanish", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000249275.jpg", "question": "Question:What is she doing? Choice: playing music， learning phone， using phone， cleaning phone", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000170602.jpg", "question": "Question:What is up against the wall at the left? Choice: chair， human back， cat， dog", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000239791.jpg", "question": "Question:What might the man's profession be? Choice: salesman， artist， carpenter， priest", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000133680.jpg", "question": "Question:Why is he sitting on the bench? Choice: scheming， resting， playing， waiting", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000558924.jpg", "question": "Question:Why does the animal want to go elsewhere to feed itself? Choice: no water， short grass， boats nearby， muddy", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000507385.jpg", "question": "Question:What cartoon character is the man dressed as? Choice: donald duck， charlie brown， super mario， mickey mouse", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000248793.jpg", "question": "Question:What birds are seen in flight here? Choice: robins， pigeon， swans， ducks", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000225271.jpg", "question": "Question:What's the area where the people are walking called? Choice: crosswalk， sidewalk， runway， boulevard", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000265356.jpg", "question": "Question:What forest animal might one associate with the fruit here? Choice: spider， gorilla， bat， wolf", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000215482.jpg", "question": "Question:Why is he holding the bat behind him? Choice: intimidate others， lost bet， novice， hit ball", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000117098.jpg", "question": "Question:Where are these bikes located? Choice: bike show， garage， parking lot， road", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000374520.jpg", "question": "Question:Which continent headquarters this airline company? Choice: asia， europe， north america， africa", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000528929.jpg", "question": "Question:What is an alternate spelling for the name on the license plate? Choice: howard， harrison， henry， harold", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000267684.jpg", "question": "Question:Where is the sun with respect to the person wearing red coat? Choice: front， right， left， back", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000323421.jpg", "question": "Question:What items are found on the wall? Choice: posters， hams， pots， sausages", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000118480.jpg", "question": "Question:Why should this cat be scared? Choice: water， fire， noise， physical harm", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000283679.jpg", "question": "Question:What country is it? Choice: spain， britain， france， italy", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000025230.jpg", "question": "Question:Which cupcake is alcohol-free? Choice: red velvet， strawberry daiquiri， cherry amaretto， bailey's chocolate", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000303036.jpg", "question": "Question:WHat flower is on the man's blazer? Choice: carnation， daisy， poppy， rose", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000066459.jpg", "question": "Question:What does the man here look at? Choice: friend， oncoming traffic， police， lights", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000012251.jpg", "question": "Question:What is the man's job? Choice: cashier， doctor， dog sitter， waiter", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000540642.jpg", "question": "Question:How many cooks prepared meals in this kitchen today? Choice: ten， four， five， none", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000556695.jpg", "question": "Question:What is making the man hold the sign? Choice: community service， safety， humor， job", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000137228.jpg", "question": "Question:What is the man in the blue shirt holding? Choice: drink， coffee， game controller， cell phone", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000555738.jpg", "question": "Question:What is the long pipe in the ground most likely used for? Choice: hiking， irrigation， decoration， sports", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000014543.jpg", "question": "Question:What is this type of scene called? Choice: circus， group photo， painting， war", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000074299.jpg", "question": "Question:Why is the bicyclist in the right side of the car? Choice: parked car， speeding car， accident， slow car", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000072629.jpg", "question": "Question:Why is it glowing red? Choice: hot， paint， juice， neon", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000035668.jpg", "question": "Question:How are the knives able to hang on the wall? Choice: glue， rope， tape， magnetism", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000392170.jpg", "question": "Question:Storing the items in the water prevents them from what? Choice: changing color， gathering bacteria， harboring flies， losing flavor", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000141603.jpg", "question": "Question:Where are these vehicles located? Choice: parking lot， garage， highway， driveway", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000041311.jpg", "question": "Question:Around what body part is this person likely to wear the items he holds? Choice: head， neck， leg， arms", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000429935.jpg", "question": "Question:How do these people know each other? Choice: coworkers， spouses， rivals， pen pals", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000223580.jpg", "question": "Question:What type food is more likely served here? Choice: salads， filet mignon， hot dog， chile", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000451944.jpg", "question": "Question:To shop at this mall one must book a ticket to which state? Choice: new jersey， minnesota， california， florida", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000305600.jpg", "question": "Question:What will happen to the refrigerator next? Choice: nothing， chilling， freezing， warm up", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000469026.jpg", "question": "Question:Why are the vehicles so old? Choice: people poor， vintage collectors， cuban embargo， old picture", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000157036.jpg", "question": "Question:How old are the animals in this photograph? Choice: middle aged， young， various ages， old", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000222086.jpg", "question": "Question:What is inside the items being upheld here? Choice: dog guts， cash， air， stuffing", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000268469.jpg", "question": "Question:For what purpose is this bike being exhibited? Choice: sale， no reason， parked temporarily， display only", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000159763.jpg", "question": "Question:What is the man playing about to do? Choice: catch， swing， dunk， block", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000449990.jpg", "question": "Question:What is the woman ready to do? Choice: swing， tackle， dunk， dribble", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000026699.jpg", "question": "Question:What is the person dress in black's job? Choice: umpire， referee， 1st base， catcher", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000264645.jpg", "question": "Question:The persons here are inside what? Choice: space shuttle， parking garage， school， retail space", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000418944.jpg", "question": "Question:What temperature is the item held by the girl when in fullest use? Choice: room temperature， 20 degrees， cold， hot", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000547435.jpg", "question": "Question:What athlete has a last name that is similar to the name of the street? Choice: jennie finch， shawn johnson， bo jackson， sasha banks", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000121557.jpg", "question": "Question:What is missing from the white girls mouth? Choice: tongue， lips， food， tooth", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000361572.jpg", "question": "Question:Where could the person quickly get a great tropical fruit to add to their home made ice cream? Choice: spain， next door， door dash， safeway", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000156098.jpg", "question": "Question:What will cars do when they reach the light? Choice: stop， slow down， turn around， go", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000342353.jpg", "question": "Question:The hats signify their status as what? Choice: thieves， dancers， lawyers， chefs", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000214725.jpg", "question": "Question:Where are the people? Choice: restaurant， hotel， lake， hostel", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000361738.jpg", "question": "Question:What word can be spelled using three of the letters on the red sign? Choice: pot， led， lop， ", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000485532.jpg", "question": "Question:What type of truck is this? Choice: tow， ladder， moving， fire", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000091912.jpg", "question": "Question:When choosing which water to swim in which color water here seems safer? Choice: light blue， yellow， dark blue， green", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000204830.jpg", "question": "Question:What are the red vegetables at the bottom right? Choice: radishes， beets， rhubarb， cabbage", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000410350.jpg", "question": "Question:What is the man wearing the black apron doing? Choice: cleaning， cooking， streaming， painting", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000573704.jpg", "question": "Question:What are they doing? Choice: paying cleaning， buying uniforms， selling bats， betting", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000523349.jpg", "question": "Question:The instrument in the picture is used to play for? Choice: snowboarding， skiing， surfing， skating", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000578813.jpg", "question": "Question:What sort of weather happens here frequently? Choice: flood， rain， sleet， wind", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000261887.jpg", "question": "Question:What type of boats are these? Choice: rowboat， sailboat， dinghy， catamaran", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000116570.jpg", "question": "Question:The person operating this computer works in what type of position? Choice: web designer， doctor， singer， architect", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000363037.jpg", "question": "Question:What country is the athlete from? Choice: germany， russia， poland， vietnam", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000553353.jpg", "question": "Question:What single item is most out of place? Choice: man， beverage， suit， shower", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000549119.jpg", "question": "Question:Where does the bus go next? Choice: bus stop， bus terminal， downtown， uptown", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000265449.jpg", "question": "Question:What is the relationship between the two players? Choice: competitors， teammates， coworkers， siblings", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000289575.jpg", "question": "Question:What style of umbrella is seen here? Choice: cruising， nylon， thatched， modern", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000069553.jpg", "question": "Question:Why is the train stopped? Choice: no fuel， broken， red light， abandoned", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000411109.jpg", "question": "Question:Why is the man laying on the ground? Choice: unhappy， fell down， resting， touching base", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000566785.jpg", "question": "Question:What type of potato is on the plate? Choice: mashed， scalloped， sweet， french fried", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000561131.jpg", "question": "Question:What must the weather be like in this area? Choice: tropical， warm， mild， cold", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000525211.jpg", "question": "Question:What does the container hold? Choice: jelly， cream， sugar， butter", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000006941.jpg", "question": "Question:What is the name of the file that is playing? Choice: music， jamsign， signaljam， signali", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000406340.jpg", "question": "Question:Where is someone working? Choice: home， library， office， courthouse", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000393864.jpg", "question": "Question:What does it look like someone spilled here? Choice: white wine， milk， red wine， salt", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000434006.jpg", "question": "Question:What is the sky producing? Choice: hail， rain， snow， sunshine", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000556516.jpg", "question": "Question:What seasonings are visible? Choice: mayo， salt pepper， paprika， hot pepper", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000133025.jpg", "question": "Question:What is the name of the sports equipment the three players are holding? Choice: ball， bat， stick， hook", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000187582.jpg", "question": "Question:Who likely packed this persons bags? Choice: she did， port authority， dog， parents", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000071908.jpg", "question": "Question:Where is this ramp located? Choice: skate park， boardwalk， grocery parking， parking lot", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000401552.jpg", "question": "Question:What is the child protecting themselves from with the umbrella? Choice: snow， sand， sun， rain", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000327032.jpg", "question": "Question:What are the metal objects hanging from the ceiling? Choice: chimes， pots， pipes， forks", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000173284.jpg", "question": "Question:What type of building are they in? Choice: hospital， commercial， school， residential", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000253770.jpg", "question": "Question:What major gaming franchise is being advertised on the window? Choice: pokemon， twin peaks， ghostbusters， mask", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000178635.jpg", "question": "Question:What is the average size of skateboard? Choice: 9inches， 12inches， 15inches， 8inches", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000316807.jpg", "question": "Question:What type of shot is the girl hitting? Choice: drop shot， serve， forehand， slice", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000014873.jpg", "question": "Question:What type of area is shown? Choice: public， rural， residential， private", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000061308.jpg", "question": "Question:What type of monster is the man trying to be? Choice: werewolf， vampire， ghost， zombie", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000259265.jpg", "question": "Question:What is the next color for the traffic light? Choice: white， blue， yellow， green", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000077936.jpg", "question": "Question:What color shown here is most unique? Choice: cream， black flower， shiny tan， gray", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000158922.jpg", "question": "Question:What type of location is this? Choice: marsh， slope， desert， field", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000548792.jpg", "question": "Question:What is the size of the buildings? Choice: short， miniature， tall， flat", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000136565.jpg", "question": "Question:Which way is the skateboard most likely to fall? Choice: forward， backward， left， right", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000518626.jpg", "question": "Question:What item is painted in an unconventional color? Choice: balloon， nearest plane， tarmac， farthest plane", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000174802.jpg", "question": "Question:What does the sign say? Choice: biohazard， stop， garbage， proceed", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000096660.jpg", "question": "Question:Why is he wearing this suit? Choice: costume， warmth， fashion， visibility", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000572575.jpg", "question": "Question:What is the monitor sitting on top of above the desk? Choice: papers， books， blocks， stand", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000347359.jpg", "question": "Question:In what state does the person skateboard here? Choice: england， new mexico， new york， bermuda", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000069000.jpg", "question": "Question:What is the woman wearing sleeveless shirt doing? Choice: recording， taking photo， using phone， itching", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000408138.jpg", "question": "Question:The bus in the background is going to the home of which endangered animal? Choice: bald eagle， red squirrel， peregrine falcon， koala", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000024621.jpg", "question": "Question:What is the yellow object with blue legs? Choice: desk， ramp， box， door", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000169152.jpg", "question": "Question:What activity are the people on the beach doing? Choice: surfing， running races， building sandcastles， flying kites", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000207385.jpg", "question": "Question:What are the plates made from? Choice: plastic， glass， steel， wood", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000487076.jpg", "question": "Question:At this intersection how many directions of traffic are required to first stop before proceeding? Choice: three， four， two， one", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000469919.jpg", "question": "Question:Why are the umbrellas different colors? Choice: discolored， hiding， less expensive， for sale", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000409796.jpg", "question": "Question:What kind of activity is on the image above? Choice: broadcasting， ploughing， cultivating， digging", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000367519.jpg", "question": "Question:What is associated with this sport? Choice: nba， nhl， mls， mlb", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000419503.jpg", "question": "Question:What type of meat is most visible near the front of the glass? Choice: red meat， chicken， fake， fish", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000140088.jpg", "question": "Question:The woman must look at what to ensure the frisbee goes the right direction? Choice: people sitting， other person， sky， ground", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000326320.jpg", "question": "Question:What is the man drinking under the Phone sign? Choice: coffee， slurpee， milkshake， coke", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000193540.jpg", "question": "Question:What color hair does the woman at the back of this quartet have? Choice: pink， blonde， red， blue", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000081443.jpg", "question": "Question:How was the skater able to elevate the skateboard? Choice: ramp， glue， thrown up， kick flip", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000027074.jpg", "question": "Question:What did the man most likely use the giant scissors for? Choice: digging hole， giant paper， giant pizza， cutting ribbon", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000449136.jpg", "question": "Question:What does the surfer need to ride that only the water can produce? Choice: drops， foam， waves， salt", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000442743.jpg", "question": "Question:Which lass of nutrient is missing in the meal in the above picture? Choice: proteins， vitamins， fats， carbohydrate", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000069015.jpg", "question": "Question:Why would someone sit at this area? Choice: wash， work， clean， eat", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000362284.jpg", "question": "Question:Where can you find this animal? Choice: new jersey， india， siberia， russia", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000431306.jpg", "question": "Question:What bathroom is it on the right? Choice: women， handicapped， transgender woman， men", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000293385.jpg", "question": "Question:What type of bread is on the sandwich? Choice: wheat， white， sourdough， rye", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000007125.jpg", "question": "Question:For whom is the paved path used? Choice: pedestrians， military， engineers， pilots", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000294714.jpg", "question": "Question:Approximately how many people live in this city? Choice: 2 million， 1 billion， 9 million， 6 million", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000452022.jpg", "question": "Question:What is the name of the sporting item the man hold in his hand? Choice: bat， steel， racket， stick", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000390483.jpg", "question": "Question:What are these birds called? Choice: stork， pelican， wren， flamingo", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000450308.jpg", "question": "Question:Where is the man in? Choice: pool， street， yard， playground", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000569272.jpg", "question": "Question:What type tobacco product will the person who sits here smoke? Choice: snuff， cigar， hookah pipe， bong", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000489469.jpg", "question": "Question:In what country are these people? Choice: australia， britain， china， us", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000575826.jpg", "question": "Question:What does the logo of the automobile company represent? Choice: windmill， steering wheel， daimler engines， peace sign", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000142666.jpg", "question": "Question:What does the plastic do here? Choice: protects， heats， tricks， nothing", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000414698.jpg", "question": "Question:What style will this player return the ball in? Choice: two handed， backhand， he won't， forehand", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000291630.jpg", "question": "Question:How many legs is this insect known to have? Choice: six， eight， four， two", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000241170.jpg", "question": "Question:What kind of bird flies over the boys head? Choice: bald eagle， gull， chicken， pigeon", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000179153.jpg", "question": "Question:Why is the woman in the white jacket wearing a helmet? Choice: dress code， for fun， style， protection", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000392949.jpg", "question": "Question:In which country could you find this street? Choice: holland， belgium， usa， canada", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000309517.jpg", "question": "Question:What time of day is it? Choice: early， mid day， noon， late", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000483475.jpg", "question": "Question:What is the man to the right directing? Choice: sheep， planes， dogs， cars", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000251111.jpg", "question": "Question:The round object on the right table would be useful in which class? Choice: geometry， biology， geography， geology", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000356286.jpg", "question": "Question:What sort of shop is this? Choice: motorcycle sales， car sales， used car， motorcycle repair", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000111799.jpg", "question": "Question:How many colors of ring does players have? Choice: four， six， three， five", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000116096.jpg", "question": "Question:Where do the boards in this picture go while being used? Choice: kitchen， ocean， your car， air", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000228234.jpg", "question": "Question:What is teeth of the elephant? Choice: trunks， tusks， skin， tongue", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000474253.jpg", "question": "Question:What event is this horse rider participating in? Choice: riding lesson， travelling， patrolling， horse racing", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000092339.jpg", "question": "Question:Those horsemen work for which entity? Choice: german government， spanish government， british government， belgian government", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000154895.jpg", "question": "Question:What has made the sandwiches to look shiny? Choice: saran wrap， glass， icing， butter", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000105762.jpg", "question": "Question:What is the white substance in the middle of the plate used for? Choice: rubbing， dipping， pasting， drinking", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000113415.jpg", "question": "Question:What weather event happened recently? Choice: rain， hail， flash flood， snow", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000477919.jpg", "question": "Question:What type environment are these fruits grown in? Choice: tropical， desert， tundra， temperate", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000557944.jpg", "question": "Question:The man with the bat is from what country? Choice: italy， japan， taiwan， mexico", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000209763.jpg", "question": "Question:What kind of person does this statue depict? Choice: military general， spiritual leader， greek deity， ceo", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000501898.jpg", "question": "Question:Whys is she holding the racquet like that? Choice: threatening， brocken racquet， hitting ball， angry", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000381123.jpg", "question": "Question:What method do these vessels shown here normally gain movement? Choice: motors， wind， none， oars", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000444018.jpg", "question": "Question:What is the vehicle following when in motion? Choice: sun， tracks， roads， police", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000010393.jpg", "question": "Question:What was the original name of the restaurant? Choice: insta-burger king， burger queen， burger express， burger pronto", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000111591.jpg", "question": "Question:Where are the birds going? Choice: beneath mountains， around mountains， ocean， over mountains", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000513274.jpg", "question": "Question:The device connected to the silver laptop is doing what activity to it? Choice: charging， formatting it， cooling， backing up", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000159030.jpg", "question": "Question:What holds the rocks together? Choice: tar， nails， steel， mortar", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000035156.jpg", "question": "Question:This animal is usually found where? Choice: farm， horse stall， house， pig sty", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000324400.jpg", "question": "Question:What action is the man wearing blue hat doing? Choice: crouching， sitting， standing， kneeling", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000203905.jpg", "question": "Question:What allows these people to move passively? Choice: holding cable， ski lift， skiing downhill， lift ticket", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000454810.jpg", "question": "Question:What is being done to the objects in the sink? Choice: waxing， breaking， painting， cleaning", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000156204.jpg", "question": "Question:What type of plane is being boarded? Choice: 747， jet， helicopter， pontoon", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000041913.jpg", "question": "Question:Why are the bananas laying out on the blanket? Choice: to clean， to dry， to sell， to eat", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000485689.jpg", "question": "Question:What is the man who is squatting prepared to do? Choice: dive， swim， sing， catch", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000067002.jpg", "question": "Question:Where is this scene likely to take place? Choice: garage， farmer's market， airport， mall", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000384078.jpg", "question": "Question:What Pantone is Coca Cola red? Choice: pms484， pms492， pms112， pms452", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000140543.jpg", "question": "Question:These animals usually live where? Choice: cave， underground hole， pasture， tundra", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000395665.jpg", "question": "Question:What does the woman stand on here? Choice: concrete， grass， clay， macadam", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000109011.jpg", "question": "Question:What is the white stuff on the food? Choice: sour cream， cream， whipping cream， ice-cream", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000493072.jpg", "question": "Question:What is the main purpose of the train shown? Choice: work commuting， rush hour， pleasure， freight", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000123797.jpg", "question": "Question:The person is riding what? Choice: bike， horse， camel， wave", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000313166.jpg", "question": "Question:What type trees are visible on this mountain? Choice: orange， evergreen， plastic， deciduous", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000147896.jpg", "question": "Question:Which television character is the same color as this truck? Choice: uncle fester， barney， lamb chop， popeye", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000196035.jpg", "question": "Question:What protection does an umbrella offer here? Choice: locusts， nuclear fallout， rain， sun shade", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000140092.jpg", "question": "Question:Why is she holding the newspaper? Choice: showing off， taking away， helping read， selling it", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000219200.jpg", "question": "Question:What has the man on his stomach done? Choice: good deeds， nothing， donations， crime", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000304493.jpg", "question": "Question:Why does he have his arm out? Choice: for balance， to signal， to catch， to wave", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000081102.jpg", "question": "Question:What might be happening on this street? Choice: parade， fire， sale， rush hour", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000400039.jpg", "question": "Question:What superhero's logo is printed on a wallet in front of the Visa sign? Choice: wonder woman， green lantern， superman， batman", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000263177.jpg", "question": "Question:What type of location is this? Choice: suburb， city， country， park", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000079460.jpg", "question": "Question:What are the objects that are in a line doing? Choice: smoking， floating， cooking， flying", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000419143.jpg", "question": "Question:What venue is shown here? Choice: home， airplane， library， office", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000267411.jpg", "question": "Question:How many men are wearing a tie? Choice: two， four， one， three", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000238584.jpg", "question": "Question:What type of dog is riding with the man? Choice: poodle， bulldog， dachshund， sheep dog", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000135336.jpg", "question": "Question:What are the cement blocks in the sea for? Choice: floaty， protecting shore， decoration， pier", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000070829.jpg", "question": "Question:What time of year is it here? Choice: solstice， fall， winter， spring", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000385441.jpg", "question": "Question:How might the train's orientation be altered here? Choice: reverse， rotation， tornado， upside down", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000241534.jpg", "question": "Question:During what time of year is this bus driving around? Choice: fall， summer， spring， winter", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000314147.jpg", "question": "Question:What unusual design does his tie have? Choice: optical illusion， polka dots， like pixels， cartoons", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000006595.jpg", "question": "Question:What are the orange vegetables? Choice: carrot， yam， pumpkin， squash", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000531299.jpg", "question": "Question:The yellow embedded items along the roadside are meant to help people using it to what? Choice: exit road， avoid merge， speed up， remain straight", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000068625.jpg", "question": "Question:What are these animals known for? Choice: quills， long necks， tusks， horns", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000311309.jpg", "question": "Question:What level of education have these two achieved? Choice: grade school， college， masters， high school", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000368969.jpg", "question": "Question:What part of the game of baseball is this person preparing to do? Choice: short stop， batter， pitcher， coach", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000537139.jpg", "question": "Question:What might cause the property values of the houses to stay low in this location? Choice: wind， weather， jobs， train noise", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000534065.jpg", "question": "Question:Why is he leaning like that? Choice: having trouble， maintain balance， new skateboarder， is falling", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000143098.jpg", "question": "Question:What's the area where the man is taking a photo from called? Choice: home base， bench， dugout， stable", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000009395.jpg", "question": "Question:What is the quotient of each individual digit shown? Choice: ten， 25， one， 55", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000238860.jpg", "question": "Question:In what year did this soda company resume business in Myanmar? Choice: 2020， 2008， 2017， 2012", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000339674.jpg", "question": "Question:Why does the boy have his leg on the tree? Choice: to wipe， to kick， to itch， to climb", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000517362.jpg", "question": "Question:What do these kids hope for? Choice: school start， parents warning， wind， homework", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000408016.jpg", "question": "Question:What vehicle is winning the race so far? Choice: tank， plane， motorcycle， boat", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000197697.jpg", "question": "Question:Where is the woman's foot resting? Choice: pedal， floor， sauna， chair", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000007819.jpg", "question": "Question:Why is the pavement so shiny? Choice: water， glass， ice， plastic", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000113905.jpg", "question": "Question:What is the man likely to add to the hotdogs in this scene? Choice: relish， condiments， spicy sauce， onion", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000194413.jpg", "question": "Question:What are the people laying down on the left side doing? Choice: digging， playing， sunbathing， sleeping", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000061983.jpg", "question": "Question:Why is the girl hunched over in bed? Choice: feels amused， feels energized， feels embarrassed， feels outgoing", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000078509.jpg", "question": "Question:Why has everyone been seated? Choice: paint， pray， eat， work", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000016483.jpg", "question": "Question:In which country does this festival occur? Choice: columbia， united states， great britain， chile", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000140487.jpg", "question": "Question:How are the men moving around here? Choice: on wheels， running， they aren't， floating", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000460665.jpg", "question": "Question:Why has the man covered his head? Choice: costume， religion， fashion， protection", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000418692.jpg", "question": "Question:What time of day is it in this image? Choice: 900 pm， 1000 am， 330 pm， 1200 pm", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000461181.jpg", "question": "Question:What are the people on the bench doing? Choice: working， sleeping， gaming， waiting", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000499577.jpg", "question": "Question:What will the racquet be used for? Choice: beat child， hit ball， cut grass， biking", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000083935.jpg", "question": "Question:What zone are the people in? Choice: business， shopping， residential， tourist", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000531069.jpg", "question": "Question:How is the transportation method operated? Choice: pedals， air， gas， engine", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000407522.jpg", "question": "Question:Why are all the people in front? Choice: waiting turns， are lost， spectators， competitors", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000577879.jpg", "question": "Question:Which AEW wrestler is most likely to be from the continent where the symbols on the kite come from? Choice: orange cassidy， malakai black， miro， riho", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000580108.jpg", "question": "Question:What kind of shop is shown in the background? Choice: car dealer， department store， bar， grocery store", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000128647.jpg", "question": "Question:How do these people know each other? Choice: classmates， acquaintances， family， coworkers", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000457437.jpg", "question": "Question:What happens in the ball goes over the yellow barrier? Choice: walk， strike， home run， run", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000337915.jpg", "question": "Question:What kind of light are they using? Choice: flashlight， sunlight， floodlight， solar light", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000314993.jpg", "question": "Question:What do they hope you will do after you rest? Choice: leave， go jogging， buy soda， help them", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000111131.jpg", "question": "Question:What is the most likely location for all of the dogs to be at? Choice: refuge， local park， dog pound， dog park", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000237964.jpg", "question": "Question:What type of sign is this? Choice: direction， warning， regulatory， sale", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000239656.jpg", "question": "Question:What is the slowest vehicle here? Choice: car， excavator， bike， scooter", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000098871.jpg", "question": "Question:What animal would this creature try to prey on? Choice: goat， cow， python， mouse", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000491017.jpg", "question": "Question:What type of persons are featured here? Choice: clowns， gay， conservatives， conventional", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000243910.jpg", "question": "Question:What fruit is next to the eggs? Choice: apples， bananas， watermelon， oranges", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000151528.jpg", "question": "Question:What is the flag made of? Choice: cloth， leather， plastic， rayon", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000188498.jpg", "question": "Question:What look does the man have on his face? Choice: sadness， disgust， love， joy", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000245440.jpg", "question": "Question:Where do the kites owners control their toys from? Choice: river banks， mid stream， river bed， drones", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000076310.jpg", "question": "Question:What are the birds doing near the lamb? Choice: eating， playing， dancing， attacking", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000400599.jpg", "question": "Question:What are cross country ski poles made of? Choice: aluminum， wood， magnet， copper", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000213922.jpg", "question": "Question:Why are they wearing those jackets? Choice: rain repellant， snow repellant， hot， cold", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000373283.jpg", "question": "Question:When the rain stops how will this umbrella be stored? Choice: folded， outside， upside down， vacation rental", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000425218.jpg", "question": "Question:Why liquid ammonia is used in refrigerator? Choice: evaporation， heating， refrigeration， vaporization", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000518361.jpg", "question": "Question:Who is this picture can you clearly see is wearing a face mask? Choice: man， boy， woman， elephant", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000567390.jpg", "question": "Question:Which legume is being served in this dish? Choice: chickpeas， split pea， lentils， lima beans", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000165707.jpg", "question": "Question:What have the people on the crossing violated? Choice: traffic laws， littering， violent protest， arson", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000340508.jpg", "question": "Question:What game is usually played on this court? Choice: badminton， tennis， basketball， volleyball", "label": 2}
+{"image_path": "/data/aovkqa/train2017/000000340247.jpg", "question": "Question:What place is famous for having islands where this type of sport takes place? Choice: siberia， hawaii， egypt， kazakhstan", "label": 1}
+{"image_path": "/data/aovkqa/train2017/000000049240.jpg", "question": "Question:Why is he running? Choice: is hungry， going home， stole ball， hitting ball", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000438375.jpg", "question": "Question:What does number twenty want to do? Choice: kick ball， catch ball， dodge ball， hit ball", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000112362.jpg", "question": "Question:What is the boy doing with the black ball? Choice: dribbling， passing， throwing， polishing", "label": 0}
+{"image_path": "/data/aovkqa/train2017/000000535768.jpg", "question": "Question:Who is joining the boy on his bed? Choice: parents， siblings， dogs， stuffed animals", "label": 3}
+{"image_path": "/data/aovkqa/train2017/000000149305.jpg", "question": "Question:What activity is the person wearing checks engaged in now? Choice: chess， cooking recipe， reading， phone call", "label": 2}

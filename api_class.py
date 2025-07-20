@@ -13,7 +13,7 @@ import time
 '''
 
 # 设置 OPENAI_API_KEY 环境变量
-os.environ["OPENAI_API_KEY"] = "sk-SnBd0nrN1Dkfg2brWc6mythLIWSqVxNDTivLd2lawi0b03MJ"
+os.environ["OPENAI_API_KEY"] = "sk-qh2eHpJ3jIUzbQ8VCWZsyHvkDWRfn1kUbCIUJx38PuFdkyp4"
 # 设置 OPENAI_BASE_URL 环境变量
 os.environ["OPENAI_BASE_URL"] = "https://chatapi.zjt66.top/v1"
 client = OpenAI(
@@ -52,9 +52,9 @@ def generate_tips_from_image_and_question(image_path, question, max_retries=20, 
                                     "text": (
                                         f"针对这张图片和提问，请输出推理时需要关注的关键点提示。"
                                         f"要求："
-                                        f"1. 用简洁的短句描述关键点，并用英文回答；"
-                                        f"2. 按照1、2、3编号输出；"
-                                        f"3. 不要解释，不要展开，不输出答案,不输出具体行为或现象描述。"
+                                        f"1. 用简洁的短句描述关键点，按照1、2、3编号输出；"
+                                        f"2. 不要解释，不要展开，不输出答案,不输出具体行为或现象描述。"
+                                        f"3. 用英文回答。"
                                         f"提问：{question}"
                                     )
                                 },
