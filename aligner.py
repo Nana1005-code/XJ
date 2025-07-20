@@ -55,10 +55,10 @@ class SequenceAligner(nn.Module):
         # 融合视觉token [n_text, n_visual] x [n_visual, d] -> [n_text, d]
         fused_visual_tokens = torch.matmul(sims_softmax_topk, V)
         
-        print(fused_visual_tokens.shape)
+        #print(fused_visual_tokens.shape)
         
         #拼接序列 [V', X]
         aligned_input = torch.cat([fused_visual_tokens, X], dim=0)  # [2 * n2, d2]
-        print(aligned_input.shape)
+        #print(aligned_input.shape)
         
         return aligned_input

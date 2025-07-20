@@ -12,9 +12,9 @@ import json
 from openai import OpenAI
 import os
 # 设置 OPENAI_API_KEY 环境变量
-os.environ["OPENAI_API_KEY"] = "sk-5MvaVcI62IFzE0gbFDaDYeOksJsoxKOHcHs5JC9NFkuTGRSZ"
+os.environ["OPENAI_API_KEY"] = "sk-FZHW6gSVMLcwUU7YHNSp2sCM06oOVyeozOOs927hCXiwS2tU"
 # 设置 OPENAI_BASE_URL 环境变量
-os.environ["OPENAI_BASE_URL"] = "https://xiaoai.plus/v1"
+os.environ["OPENAI_BASE_URL"] = "https://chatapi.zjt66.top/v1"
 client = OpenAI(
     # 下面两个参数的默认值来自环境变量，可以不加
     api_key=os.environ.get("OPENAI_API_KEY"),
@@ -23,13 +23,13 @@ client = OpenAI(
 
 import base64
 
-with open("./1752660927641.jpg", "rb") as image_file:
+with open("/data/aovkqa/train2017/000000012991.jpg", "rb") as image_file:
     image_bytes = image_file.read()
     image_base64 = base64.b64encode(image_bytes).decode("utf-8")
     image_data_url = f"data:image/jpeg;base64,{image_base64}"
 
 response = client.chat.completions.create(
-    model="gpt-4o",
+    model="qwen2.5-vl-72b-instruct",
     messages=[
         {
             "role": "user",
@@ -41,8 +41,8 @@ response = client.chat.completions.create(
                         "要求："
                         "1. 用简洁的短句描述关键点；"
                         "2. 按照1、2、3编号输出；"
-                        "3. 不要解释，不要展开，不输出答案。"
-                        "提问：这张图片中谁处于危险？"
+                        "3. 不要解释，不要展开，不输出答案"
+                        "提问：图像中的人物的性别是什么。A女性 B男性 C未知"
                     )
                 },
                 {

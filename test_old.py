@@ -33,6 +33,7 @@ class LlavaOnevisionPipeline:
         logits = self.linear_layer(text_embeds)  # [batch_size, 4]
         return logits
 
+    #这个函数忘记用了，之前的才会报错！！
     def build_prompt(self, question):
         conversation = [
             {
@@ -128,7 +129,7 @@ class LlavaOnevisionPipeline:
         """
         tips_text = " ".join(api_tips)
         augmented = (
-            f"{question}，并告诉我判断的理由。请注意以下提示以便更好地回答问题："
+            f"{question}，请注意以下提示以便更好地回答问题："
             f"{tips_text}"
         )
         return augmented

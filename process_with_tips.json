@@ -1,0 +1,2 @@
+{"image_path": "/data/aovkqa/train2017/000000299207.jpg", "question": "Question:What is the man by the bags awaiting? Choice: skateboarder train delivery cab", "label": 3, "tips": "1. Suitcases suggest travel 2. Standing by road edge 3. No skateboard or train in sight"}
+{"image_path": "/data/aovkqa/train2017/000000039446.jpg", "question": "Question:Where does this man eat pizza? Choice: office cafe motel outside", "label": 0, "tips": "1. Identify the furniture present 2. Look for workstation signs 3. Examine the seating area"}

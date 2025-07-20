@@ -12,8 +12,8 @@ from test_old import LlavaOnevisionPipeline
 from tqdm import tqdm
 '''
 在test withcot里面先跑一个看看有没有bug，run还没写，线性层矩阵维度还没改
-注意力的理论再推一次
 API测试一下
+注意力的理论再推一次
 先一个batch里面开始训练跑跑bug，打印一下各个情况，看看情况
 '''
 
@@ -113,11 +113,11 @@ def train(pipeline, dataloader, optimizer, device=None):
             optimizer.zero_grad()
             for i in range(len(batch['image_path'])):
                 question = batch["question"][i]
-                choices = batch["choices"][i]
-                text = f"{question} Answer:{' '.join(choices)}"
+                #choices = batch["choices"][i]
+                #text = f"question:{question} Choices:{' '.join(choices)}"
                 labels = torch.Tensor(batch['label'][i]).to(device)
-                print(labels)
-                prompt = f"Question:{text}"
+                #print(labels)
+                prompt = f"Question:{question}" #原本这里是text
                 conversation = [
                 {
 
@@ -163,22 +163,25 @@ def train(pipeline, dataloader, optimizer, device=None):
 
         
 
+'''
+忘了把CoT的内容放进去了
+'''
 def test(pipeline, dataloader, device=None):
     pipeline.model.eval()
     correct = 0
     total = 0
-    with torch.no_grad():
-        #num=0
+    with torch.no_grad(): #不需要计算梯度
+        num=0
         for batch in tqdm(dataloader):
             #print(batch)
             images=batch['image_path']
             for i in range(len(batch['image_path'])):
                 question = batch["question"][i]
-                choices = batch["choices"][i]
-                text = f"{question} Answer:{' '.join(choices)}"
+                #choices = batch["choices"][i]
+                #text = f"{question} Answer:{' '.join(choices)}"
                 labels = torch.Tensor(batch['label'][i]).to(device)
-                print(labels)
-                prompt = f"Question:{text}"
+                #print(labels)
+                prompt = f"Question:{question}"#原本这里是text
                 conversation = [
                 {
 
@@ -203,9 +206,10 @@ def test(pipeline, dataloader, device=None):
                     predicted_label = predicted_label.cpu()
                 correct += (predicted_label == labels.cpu()).sum().item()
                 total += 1
-                print("done 1")
+                #print("done 1")
+                torch.cuda.empty_cache()
             #num+=1
-            #if num==100:
+            #if num==8000:
                 #break
         acc = correct / total if total > 0 else 0
         return acc
@@ -213,6 +217,7 @@ def test(pipeline, dataloader, device=None):
 if __name__ == "__main__":
     """
     Test
+    """
     model_id = "/data/huggingface/models/llava-hf_llava-onevision-qwen2-7b-ov-hf"
     #model = LlavaOnevisionForConditionalGeneration.from_pretrained(model_id, device_map="auto")
     
@@ -222,16 +227,16 @@ if __name__ == "__main__":
     pipeline = LlavaOnevisionPipeline(model_id, device=device)
    
     # 准备数据集
-    dataloader = prepare_dataloader(jsonl_path="process.json")
+    dataloader = prepare_dataloader(jsonl_path="process_combin.json")
 
     
-   cor=test(pipeline, dataloader, device=device)
+    cor=test(pipeline, dataloader, device=device)
     print(cor)
-    """
+    
     
     """
     Train
-    """
+    
     device = "cuda"
     model_id = "/data/huggingface/models/llava-hf_llava-onevision-qwen2-7b-ov-hf"
     pipeline = LlavaOnevisionPipeline(model_id, device=device)  # 设置 LoRA 微调
@@ -244,6 +249,6 @@ if __name__ == "__main__":
     optimizer = torch.optim.AdamW(pipeline.model.parameters(), lr=1e-5)
     
     # 训练
-    train(pipeline, dataloader, optimizer, device=device)
+    train(pipeline, dataloader, optimizer, device=device)"""
     
 

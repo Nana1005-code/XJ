@@ -22,7 +22,7 @@ conversation = [
       "role": "user",
       "content": [
           #{"type": "text","text":"图片中的人是男性还是女性？为什么呢？请注意以下几点，以便更好地回答问题："},
-          {"type": "text","text":"How were the drivers of the cars able to park here?A:firemen, B:airport workers, C:police, D:postal workers.Explain why. Please note the following instructions to help you answer the questions better: '1. Parking area access  ', '2. Vehicle permissions  ', '3. Airport regulations'"},
+          {"type": "text","text":"这张图片中的人是男性还是女性? A未知 B男性 C女性"},
           #{"type": "text","text":"托盘的左边是什么？请注意以下提示方便更好回答问题：1、确定参考框架，是托盘的左侧，而非画面的左侧 2、确定托盘上的物品 "},
           {"type": "image"},
         ],
@@ -33,7 +33,7 @@ prompt = processor.apply_chat_template(conversation, add_generation_prompt=True)
 
 
 #JPG
-raw_image = Image.open("/data/aovkqa/train2017/000000046408.jpg").convert("RGB")
+raw_image = Image.open("/data/aovkqa/train2017/000000012927.jpg").convert("RGB")
 
 
 '''
@@ -44,7 +44,7 @@ raw_image = Image.open(requests.get(image_file, stream=True).raw)
 
 '''
 选择题
-
+'''
 inputs = processor(
     images=raw_image, 
     text=prompt, 
@@ -66,12 +66,10 @@ with torch.no_grad():
     logits = linear_layer(hidden_states)
     print(f"logits shape: {logits.shape}")
     print(f"logits: {logits}")
-'''
+
 
 '''
 正常输出
-'''
-
 inputs = processor(
     images=raw_image, 
     text=prompt, 
@@ -81,3 +79,4 @@ output = model.generate(**inputs, max_new_tokens=2000, do_sample=False)
 print("Here is the prompt",prompt)
 print(processor.decode(output[0][2:], skip_special_tokens=True))
 print(inputs.keys())
+'''
