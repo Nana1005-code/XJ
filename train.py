@@ -227,7 +227,7 @@ if __name__ == "__main__":
     pipeline = LlavaOnevisionPipeline(model_id, device=device)
    
     # 准备数据集
-    dataloader = prepare_dataloader(jsonl_path="process_combin.json")
+    dataloader = prepare_dataloader(jsonl_path="process_2000.json")
 
     
     cor=test(pipeline, dataloader, device=device)
